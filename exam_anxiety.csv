@@ -1,0 +1,1201 @@
+text_response,anxiety_label,anxiety_code,heart_rate,sleep_hours,study_hours_per_day,days_since_last_break,social_interactions_per_week,water_intake_liters,exercise_minutes_per_day
+The thought of the exam fills me with dread and terror,High,2,99.3,4.8,9.1,8,1,1.2,5
+I have not been able to sleep for days because of exam fear,High,2,109.6,6.0,9.2,11,0,1.5,1
+I sleep well and feel mentally prepared,Low,0,69.7,7.8,3.9,1,7,2.5,58
+I feel moderate pressure from family expectations about results,Moderate,1,82.2,6.7,8.6,2,5,2.2,19
+I am confident in my preparation and feel steady,Low,0,72.2,7.2,7.1,2,5,2.7,34
+I experience panic attacks when I think about exams,High,2,86.4,4.7,7.7,14,0,1.4,7
+My preparation is going smoothly without much stress,Low,0,72.0,7.9,5.1,1,6,2.5,44
+I cannot stop worrying about failing the exam at all,High,2,107.1,5.1,9.6,12,2,1.3,5
+My appetite has slightly reduced during exam preparation,Moderate,1,76.6,6.3,6.8,2,2,2.1,13
+I experience panic attacks when I think about exams,High,2,91.1,4.4,9.6,9,0,1.3,10
+I am constantly trembling and cannot eat or sleep properly,High,2,89.1,4.5,5.8,9,0,1.5,7
+I sleep well and feel mentally prepared,Low,0,72.1,8.2,4.7,2,9,3.3,20
+I enjoy studying and feel ready for assessments,Low,0,67.6,7.6,5.1,0,6,2.2,50
+My heart races and I feel nauseous when exam date approaches,High,2,100.0,5.7,12.4,13,2,1.1,2
+No major worries just some normal exam jitters,Low,0,75.2,8.2,5.2,2,9,2.7,34
+I feel a little nervous but it motivates me positively,Low,0,75.6,6.9,4.5,2,10,2.6,21
+My appetite has slightly reduced during exam preparation,Moderate,1,86.7,5.2,8.0,5,2,1.8,9
+I get anxious during revision but calm down after some time,Moderate,1,84.9,5.8,6.9,4,5,1.6,23
+I have not been able to sleep for days because of exam fear,High,2,99.4,4.6,8.1,7,2,1.2,5
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,88.2,5.1,7.1,2,5,2.4,5
+I sleep well and feel mentally prepared,Low,0,78.1,7.8,4.8,0,6,2.2,37
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,82.2,6.6,6.6,3,5,1.3,15
+My appetite has slightly reduced during exam preparation,Moderate,1,84.5,6.7,7.1,4,3,1.8,14
+No major worries just some normal exam jitters,Low,0,68.7,8.0,4.4,1,10,3.0,43
+I feel quite relaxed about my upcoming exams,Low,0,80.1,6.8,3.3,0,5,2.5,29
+I am calm and focused during my study sessions,Low,0,68.9,8.5,4.8,2,6,2.6,38
+I feel stressed but try to manage it with breaks,Moderate,1,80.9,7.1,6.2,3,5,2.3,14
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,72.6,5.5,8.2,4,3,1.5,10
+My preparation is going smoothly without much stress,Low,0,76.3,7.2,4.8,0,7,2.6,26
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,74.0,5.5,6.9,5,3,1.4,12
+I sleep well and feel mentally prepared,Low,0,71.9,7.1,2.6,2,8,2.8,24
+I feel completely hopeless and unprepared for the exams,High,2,98.6,4.7,7.1,6,1,1.3,1
+My appetite has slightly reduced during exam preparation,Moderate,1,79.9,5.9,6.8,3,5,1.6,11
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,80.3,6.9,6.5,3,6,1.9,20
+I feel good about my chances in the exam,Low,0,78.2,7.5,5.3,2,9,3.0,21
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,83.2,5.5,6.8,3,2,1.5,23
+I feel stressed but try to manage it with breaks,Moderate,1,82.2,5.3,8.1,5,4,1.8,7
+I sleep well and feel mentally prepared,Low,0,72.6,7.8,6.6,1,8,2.1,35
+My preparation is going smoothly without much stress,Low,0,68.1,6.8,3.2,1,9,2.7,39
+I feel moderate pressure from family expectations about results,Moderate,1,88.4,6.9,7.7,2,6,1.5,19
+I have been having severe headaches and chest tightness from stress,High,2,104.0,4.3,10.1,11,2,1.1,10
+I am calm and focused during my study sessions,Low,0,77.3,6.6,3.8,0,10,1.9,48
+I have not been able to sleep for days because of exam fear,High,2,97.8,4.1,8.2,9,1,1.4,5
+I feel a little nervous but it motivates me positively,Low,0,74.7,8.0,4.6,2,5,2.2,51
+I cannot stop worrying about failing the exam at all,High,2,84.9,3.2,7.2,11,1,1.2,8
+I feel quite relaxed about my upcoming exams,Low,0,69.8,7.1,4.8,1,9,3.0,27
+I feel a little nervous but it motivates me positively,Low,0,72.3,7.6,6.5,2,10,2.7,29
+I feel a little nervous but it motivates me positively,Low,0,68.5,7.3,4.6,1,10,2.1,55
+No major worries just some normal exam jitters,Low,0,71.6,7.7,5.3,0,6,2.7,43
+No major worries just some normal exam jitters,Low,0,76.2,7.2,4.6,2,5,1.9,59
+My appetite has slightly reduced during exam preparation,Moderate,1,81.9,4.9,8.2,5,4,2.0,5
+I have not been able to sleep for days because of exam fear,High,2,87.7,6.1,6.3,5,2,1.0,8
+I am calm and focused during my study sessions,Low,0,66.0,7.7,6.2,0,6,2.3,54
+My preparation is going smoothly without much stress,Low,0,70.7,6.9,7.6,0,10,2.5,38
+I have not been able to sleep for days because of exam fear,High,2,105.5,6.0,10.3,10,1,1.5,9
+I feel good about my chances in the exam,Low,0,66.0,7.8,6.5,0,10,2.9,22
+I cannot stop worrying about failing the exam at all,High,2,113.5,5.0,8.1,7,2,1.0,2
+I feel like everything depends on this exam and I might fail,High,2,84.5,4.1,8.9,12,0,1.3,6
+I experience panic attacks when I think about exams,High,2,85.1,5.0,4.9,10,2,1.0,1
+I feel quite relaxed about my upcoming exams,Low,0,72.4,8.2,3.9,1,8,2.4,47
+I have been studying consistently and feel confident,Low,0,80.4,7.2,5.6,2,10,3.0,26
+My preparation is going smoothly without much stress,Low,0,68.0,7.7,6.9,0,9,2.9,35
+I feel quite relaxed about my upcoming exams,Low,0,71.8,7.8,3.9,1,7,2.6,31
+No major worries just some normal exam jitters,Low,0,69.6,7.6,3.6,0,9,2.1,58
+I feel a little nervous but it motivates me positively,Low,0,70.3,7.3,3.6,1,9,2.3,49
+I have been having severe headaches and chest tightness from stress,High,2,100.0,5.7,9.9,14,1,0.9,3
+No major worries just some normal exam jitters,Low,0,65.1,7.0,5.5,1,6,2.7,54
+I feel moderate pressure from family expectations about results,Moderate,1,79.1,4.7,7.5,4,4,2.2,9
+I feel stressed but try to manage it with breaks,Moderate,1,85.6,6.0,6.4,4,3,1.9,10
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,82.7,6.2,7.5,4,2,2.0,6
+I have been feeling restless lately because of exams,Moderate,1,85.1,6.3,7.6,5,5,2.1,14
+I am confident in my preparation and feel steady,Low,0,76.2,6.9,5.5,1,9,2.9,39
+I feel extremely stressed and cannot focus on anything,High,2,88.0,4.7,7.2,14,2,1.1,10
+My preparation is going smoothly without much stress,Low,0,68.1,7.4,4.5,2,8,2.5,27
+I feel good about my chances in the exam,Low,0,76.1,7.9,6.3,2,8,2.5,29
+I have been feeling restless lately because of exams,Moderate,1,86.1,5.8,7.7,4,4,2.0,12
+I feel a little nervous but it motivates me positively,Low,0,73.3,8.0,6.7,1,5,2.8,50
+I feel quite relaxed about my upcoming exams,Low,0,69.6,8.0,5.1,2,9,2.2,34
+I feel like everything depends on this exam and I might fail,High,2,101.3,4.1,10.5,12,1,1.1,6
+My mind goes completely blank whenever I try to study,High,2,99.9,5.0,9.3,12,1,1.2,10
+I feel like everything depends on this exam and I might fail,High,2,96.4,5.0,10.1,14,1,1.8,1
+I feel a little nervous but it motivates me positively,Low,0,65.1,7.1,5.0,2,6,3.0,39
+My heart races and I feel nauseous when exam date approaches,High,2,93.8,3.7,9.8,14,0,1.0,1
+I manage my time well and feel in control,Low,0,67.1,7.8,4.5,0,10,2.3,35
+I get nervous but can still function and study normally,Moderate,1,95.1,5.0,7.2,2,2,1.6,21
+I experience panic attacks when I think about exams,High,2,83.7,4.4,8.3,5,0,1.2,5
+I cannot stop worrying about failing the exam at all,High,2,108.1,5.0,9.8,12,0,1.1,5
+No major worries just some normal exam jitters,Low,0,73.6,6.9,5.9,0,8,2.4,34
+I cannot stop worrying about failing the exam at all,High,2,105.1,4.2,7.4,11,2,1.6,8
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,83.5,6.5,7.5,3,6,1.4,13
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,79.1,5.8,5.7,5,4,1.6,21
+I worry a bit about failing but I keep studying,Moderate,1,84.0,5.3,8.3,5,6,1.5,16
+I enjoy studying and feel ready for assessments,Low,0,71.1,7.5,3.9,0,8,2.1,32
+No major worries just some normal exam jitters,Low,0,70.1,8.0,6.9,2,9,3.0,55
+I cannot stop worrying about failing the exam at all,High,2,108.8,5.1,10.3,11,1,0.8,6
+My appetite has slightly reduced during exam preparation,Moderate,1,87.1,5.8,6.7,2,3,2.0,11
+I feel stressed but try to manage it with breaks,Moderate,1,83.6,7.1,5.8,2,5,1.4,10
+My mind goes completely blank whenever I try to study,High,2,93.3,4.8,8.8,7,1,1.3,2
+I enjoy studying and feel ready for assessments,Low,0,75.0,7.9,5.8,1,7,2.6,41
+I feel a little nervous but it motivates me positively,Low,0,72.4,7.1,6.5,1,7,2.7,24
+I feel moderate pressure from family expectations about results,Moderate,1,87.2,6.6,6.7,4,6,1.8,24
+No major worries just some normal exam jitters,Low,0,73.4,8.5,5.9,1,8,2.4,55
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,89.0,5.7,7.6,2,5,1.7,12
+I am confident in my preparation and feel steady,Low,0,67.0,6.9,6.2,1,5,2.7,23
+I cannot stop worrying about failing the exam at all,High,2,91.3,3.6,8.7,8,1,1.8,6
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,88.6,5.8,8.1,4,6,1.5,17
+I have not been able to sleep for days because of exam fear,High,2,95.0,5.2,8.8,10,2,1.1,3
+I am constantly trembling and cannot eat or sleep properly,High,2,94.1,5.1,9.6,10,0,1.3,7
+I cry frequently because of the unbearable exam pressure,High,2,101.7,4.4,8.0,12,1,1.7,10
+I feel extremely stressed and cannot focus on anything,High,2,88.0,4.4,5.7,14,2,1.3,0
+I am calm and focused during my study sessions,Low,0,73.1,8.0,3.6,0,6,2.0,46
+I cry frequently because of the unbearable exam pressure,High,2,101.1,4.6,8.8,13,1,0.8,10
+I have been studying consistently and feel confident,Low,0,80.0,7.2,4.0,1,6,2.5,49
+My heart races and I feel nauseous when exam date approaches,High,2,91.1,4.8,9.5,9,1,0.6,2
+I feel stressed but try to manage it with breaks,Moderate,1,79.7,6.6,6.6,5,5,1.8,20
+I am constantly trembling and cannot eat or sleep properly,High,2,91.9,4.7,8.9,5,1,1.5,8
+I am confident in my preparation and feel steady,Low,0,69.7,6.3,3.4,0,6,2.7,60
+I manage my time well and feel in control,Low,0,71.2,7.3,4.0,1,9,2.0,52
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,84.6,6.9,7.7,5,4,1.9,13
+I am confident in my preparation and feel steady,Low,0,68.9,8.4,5.7,2,5,2.3,30
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,87.0,6.4,6.6,5,3,1.6,8
+I am constantly trembling and cannot eat or sleep properly,High,2,94.6,4.8,10.0,9,0,1.4,5
+The thought of the exam fills me with dread and terror,High,2,88.1,4.7,8.9,6,2,1.0,10
+I feel completely hopeless and unprepared for the exams,High,2,91.2,3.7,8.9,13,1,1.3,2
+I feel moderate pressure from family expectations about results,Moderate,1,84.2,5.8,7.3,5,4,1.7,11
+I feel like everything depends on this exam and I might fail,High,2,108.8,4.3,9.2,12,2,0.9,7
+I am calm and focused during my study sessions,Low,0,77.4,7.7,5.0,0,9,2.7,23
+No major worries just some normal exam jitters,Low,0,70.8,7.0,4.4,1,7,2.7,40
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,81.5,5.8,6.9,2,5,1.9,12
+I feel moderate pressure from family expectations about results,Moderate,1,84.1,8.1,7.4,4,3,1.7,8
+My preparation is going smoothly without much stress,Low,0,72.4,6.5,5.9,1,5,2.6,32
+I feel extremely stressed and cannot focus on anything,High,2,92.3,3.6,8.1,9,0,1.3,1
+Exams do not bother me much this time,Low,0,71.6,8.8,4.2,2,5,3.0,47
+No major worries just some normal exam jitters,Low,0,64.8,6.4,5.4,1,8,2.3,50
+I have been having severe headaches and chest tightness from stress,High,2,92.7,4.4,9.6,6,0,1.3,6
+I feel tense when thinking about results but manage to study,Moderate,1,83.2,4.7,7.0,3,4,1.6,15
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,81.2,6.0,9.6,4,6,1.5,12
+I feel stressed but try to manage it with breaks,Moderate,1,86.8,6.4,5.2,4,5,1.6,21
+I get nervous but can still function and study normally,Moderate,1,82.8,6.2,6.2,3,4,1.9,20
+I feel like everything depends on this exam and I might fail,High,2,104.5,5.7,7.6,8,2,0.9,8
+The thought of the exam fills me with dread and terror,High,2,97.2,5.0,9.8,10,2,1.4,2
+I have been feeling restless lately because of exams,Moderate,1,76.5,5.4,9.9,5,3,2.2,14
+I enjoy studying and feel ready for assessments,Low,0,63.9,8.1,4.3,2,7,2.3,27
+I feel stressed but try to manage it with breaks,Moderate,1,97.6,6.3,5.6,3,5,1.6,15
+I have been feeling restless lately because of exams,Moderate,1,84.4,6.5,5.7,4,2,2.3,23
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,87.3,6.5,7.4,5,3,1.8,24
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,86.2,6.9,6.4,5,3,1.9,8
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,85.8,5.0,7.8,5,6,1.4,18
+I feel moderate pressure from family expectations about results,Moderate,1,88.3,6.7,5.2,3,6,1.5,25
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,95.4,5.4,4.5,5,6,1.7,16
+The thought of the exam fills me with dread and terror,High,2,100.3,5.2,8.0,13,2,1.2,7
+No major worries just some normal exam jitters,Low,0,80.4,7.7,4.3,2,6,2.5,30
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,78.6,6.5,7.7,2,2,2.4,13
+No major worries just some normal exam jitters,Low,0,79.8,7.0,6.0,2,8,2.4,41
+I have not been able to sleep for days because of exam fear,High,2,79.9,4.6,10.2,13,1,1.2,5
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,82.9,5.8,7.8,4,4,1.3,25
+No major worries just some normal exam jitters,Low,0,79.0,7.8,5.0,2,8,2.1,38
+No major worries just some normal exam jitters,Low,0,80.4,7.3,6.1,0,8,2.5,40
+I feel like everything depends on this exam and I might fail,High,2,91.4,3.6,10.3,7,1,1.3,2
+I enjoy studying and feel ready for assessments,Low,0,71.1,7.4,5.0,0,9,2.5,24
+I feel extremely stressed and cannot focus on anything,High,2,95.5,4.9,9.4,8,1,0.6,3
+I cannot stop worrying about failing the exam at all,High,2,99.4,4.5,6.8,8,2,0.8,5
+I cannot stop worrying about failing the exam at all,High,2,100.8,4.0,8.8,11,0,1.2,4
+I am calm and focused during my study sessions,Low,0,70.3,7.3,4.7,2,8,3.1,55
+I am confident in my preparation and feel steady,Low,0,59.5,8.6,3.6,1,9,2.0,57
+I feel completely hopeless and unprepared for the exams,High,2,97.8,3.0,9.9,7,0,1.3,5
+I manage my time well and feel in control,Low,0,68.2,7.6,5.3,1,6,3.1,48
+I cannot stop worrying about failing the exam at all,High,2,87.1,4.5,8.2,14,0,0.7,0
+I feel extremely stressed and cannot focus on anything,High,2,103.1,5.1,7.6,14,0,1.6,3
+I feel a little nervous but it motivates me positively,Low,0,74.9,8.6,4.0,2,8,2.3,43
+I get anxious during revision but calm down after some time,Moderate,1,85.6,6.8,5.6,5,6,1.6,9
+I cannot stop worrying about failing the exam at all,High,2,89.1,4.6,7.1,5,0,0.7,2
+I feel good about my chances in the exam,Low,0,83.6,7.7,5.2,0,8,2.4,38
+My preparation is going smoothly without much stress,Low,0,69.0,7.7,3.4,0,6,2.6,52
+I enjoy studying and feel ready for assessments,Low,0,71.8,7.8,5.0,1,10,2.5,43
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,83.6,6.4,9.0,5,4,1.3,19
+No major worries just some normal exam jitters,Low,0,69.3,7.7,5.0,2,5,2.8,45
+My mind goes completely blank whenever I try to study,High,2,105.4,5.4,6.9,13,1,1.4,6
+I feel good about my chances in the exam,Low,0,76.3,7.4,5.0,2,9,2.2,53
+I feel moderate pressure from family expectations about results,Moderate,1,82.3,5.4,7.8,4,5,1.7,8
+I feel moderate pressure from family expectations about results,Moderate,1,70.5,7.2,6.7,2,2,1.9,10
+I have not been able to sleep for days because of exam fear,High,2,104.8,5.3,9.8,9,0,1.3,7
+My preparation is going smoothly without much stress,Low,0,67.0,7.1,5.0,0,8,2.6,56
+My mind goes completely blank whenever I try to study,High,2,100.2,4.1,8.0,8,1,1.2,4
+I feel quite relaxed about my upcoming exams,Low,0,67.1,8.0,4.0,1,10,2.4,50
+I have been having severe headaches and chest tightness from stress,High,2,111.4,3.9,6.5,5,2,1.1,9
+I get anxious during revision but calm down after some time,Moderate,1,79.2,6.3,7.8,2,6,2.0,22
+I have been having severe headaches and chest tightness from stress,High,2,85.1,4.4,9.8,9,1,1.7,9
+My appetite has slightly reduced during exam preparation,Moderate,1,85.0,6.1,7.7,5,6,1.7,7
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,64.9,6.1,8.8,2,3,2.2,6
+The thought of the exam fills me with dread and terror,High,2,97.6,3.8,6.7,11,0,1.3,9
+I get anxious during revision but calm down after some time,Moderate,1,81.9,4.9,6.5,4,2,1.7,11
+I manage my time well and feel in control,Low,0,75.7,7.6,4.9,0,5,2.4,44
+I cry frequently because of the unbearable exam pressure,High,2,102.9,4.6,6.6,8,1,1.0,3
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,88.8,6.3,6.4,4,4,2.3,10
+I have been studying consistently and feel confident,Low,0,73.4,6.9,3.9,2,5,2.8,42
+I have been studying consistently and feel confident,Low,0,61.9,7.6,4.3,0,7,2.8,24
+I am constantly trembling and cannot eat or sleep properly,High,2,111.2,3.7,7.7,6,1,1.4,9
+I feel completely hopeless and unprepared for the exams,High,2,97.9,2.8,9.8,9,0,1.0,2
+I enjoy studying and feel ready for assessments,Low,0,77.0,6.1,7.1,1,9,2.5,51
+I cry frequently because of the unbearable exam pressure,High,2,87.4,6.0,7.1,14,0,1.3,9
+The thought of the exam fills me with dread and terror,High,2,83.7,4.0,9.9,6,1,1.0,7
+My appetite has slightly reduced during exam preparation,Moderate,1,80.3,5.7,7.3,2,2,1.9,18
+I feel completely hopeless and unprepared for the exams,High,2,90.6,5.4,7.2,6,0,1.3,1
+My mind goes completely blank whenever I try to study,High,2,98.6,5.7,10.3,11,1,0.9,8
+I enjoy studying and feel ready for assessments,Low,0,84.6,7.2,4.5,2,7,2.8,47
+I feel moderate pressure from family expectations about results,Moderate,1,65.6,5.7,6.0,5,4,1.3,7
+I feel stressed but try to manage it with breaks,Moderate,1,84.3,5.2,6.4,3,2,1.5,9
+I get anxious during revision but calm down after some time,Moderate,1,76.4,6.2,8.2,2,6,1.6,25
+I feel extremely stressed and cannot focus on anything,High,2,99.8,5.7,8.3,12,0,1.1,8
+I cannot stop worrying about failing the exam at all,High,2,85.8,5.0,10.0,13,2,1.3,0
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,75.6,6.1,8.3,2,2,1.9,5
+I worry a bit about failing but I keep studying,Moderate,1,90.9,5.9,4.9,4,6,1.6,20
+I feel extremely stressed and cannot focus on anything,High,2,114.4,3.3,10.9,11,0,1.5,7
+I feel like everything depends on this exam and I might fail,High,2,92.3,4.4,8.4,6,2,0.8,1
+I feel good about my chances in the exam,Low,0,75.9,6.1,6.1,1,7,2.0,31
+I get anxious during revision but calm down after some time,Moderate,1,88.5,6.3,7.4,3,5,2.0,25
+I have been studying consistently and feel confident,Low,0,70.9,7.5,5.2,0,5,1.9,46
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,78.5,5.7,8.2,5,5,2.3,9
+I have been feeling restless lately because of exams,Moderate,1,71.2,6.6,5.8,2,5,2.0,25
+I experience panic attacks when I think about exams,High,2,99.0,5.0,8.8,6,1,1.2,10
+I cry frequently because of the unbearable exam pressure,High,2,97.1,5.3,6.9,7,1,1.2,3
+The thought of the exam fills me with dread and terror,High,2,92.2,5.1,8.2,10,1,1.2,0
+I cannot stop worrying about failing the exam at all,High,2,106.0,3.4,8.5,8,2,1.0,3
+I manage my time well and feel in control,Low,0,63.5,7.5,4.0,0,10,2.2,35
+I get anxious during revision but calm down after some time,Moderate,1,86.7,6.8,6.9,5,2,1.7,16
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,90.2,6.1,5.0,2,5,1.5,20
+I sleep well and feel mentally prepared,Low,0,72.4,7.2,6.0,0,9,2.5,25
+I enjoy studying and feel ready for assessments,Low,0,78.0,6.7,4.4,1,10,2.6,28
+I worry a bit about failing but I keep studying,Moderate,1,79.4,7.2,9.0,3,2,1.6,22
+I am calm and focused during my study sessions,Low,0,70.9,8.2,5.1,1,5,2.4,57
+I feel a little nervous but it motivates me positively,Low,0,74.5,7.0,5.1,2,9,2.7,27
+I have not been able to sleep for days because of exam fear,High,2,103.5,4.2,10.1,7,1,2.0,1
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,91.8,6.7,7.3,3,5,2.3,9
+My mind goes completely blank whenever I try to study,High,2,89.6,3.0,8.4,8,0,1.5,4
+I am confident in my preparation and feel steady,Low,0,69.6,6.9,5.1,1,8,2.0,58
+I experience panic attacks when I think about exams,High,2,92.4,4.3,8.9,11,0,1.2,10
+I feel stressed but try to manage it with breaks,Moderate,1,81.6,6.3,8.0,2,2,1.8,14
+The thought of the exam fills me with dread and terror,High,2,101.2,4.5,5.5,12,1,1.4,5
+I have been having severe headaches and chest tightness from stress,High,2,102.5,4.5,8.7,11,1,1.1,6
+I feel good about my chances in the exam,Low,0,72.3,6.5,4.1,2,10,2.5,28
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,77.3,6.3,9.1,4,6,1.5,24
+I feel a little nervous but it motivates me positively,Low,0,71.9,7.6,6.3,1,8,2.3,38
+The thought of the exam fills me with dread and terror,High,2,96.4,3.7,7.9,7,0,0.8,8
+Exams do not bother me much this time,Low,0,77.8,7.6,5.3,1,10,2.4,44
+I have been feeling restless lately because of exams,Moderate,1,81.1,6.1,6.2,5,6,2.4,18
+I have been feeling restless lately because of exams,Moderate,1,82.8,5.9,7.3,5,3,2.2,22
+I cry frequently because of the unbearable exam pressure,High,2,87.0,4.2,9.3,6,1,1.6,4
+I feel a little nervous but it motivates me positively,Low,0,82.6,8.0,3.5,0,5,2.4,26
+I feel quite relaxed about my upcoming exams,Low,0,78.0,7.3,3.0,1,7,2.2,33
+I get nervous but can still function and study normally,Moderate,1,85.5,5.8,6.2,4,6,1.5,14
+I am calm and focused during my study sessions,Low,0,71.1,7.3,5.7,1,10,2.8,21
+I feel quite relaxed about my upcoming exams,Low,0,73.2,8.8,5.6,1,6,2.0,28
+I feel good about my chances in the exam,Low,0,69.6,7.3,5.4,2,6,2.4,59
+My heart races and I feel nauseous when exam date approaches,High,2,101.4,3.9,8.9,10,0,1.2,6
+I am constantly trembling and cannot eat or sleep properly,High,2,92.5,5.1,8.6,14,2,1.1,9
+I manage my time well and feel in control,Low,0,71.2,7.6,6.2,0,10,2.3,54
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,80.1,6.6,7.3,2,5,1.9,7
+No major worries just some normal exam jitters,Low,0,70.2,6.9,3.7,1,10,2.8,51
+I feel like everything depends on this exam and I might fail,High,2,101.5,5.4,10.3,14,2,1.3,7
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,86.7,5.7,7.4,5,5,1.8,24
+I sleep well and feel mentally prepared,Low,0,70.4,7.4,6.3,1,8,2.7,43
+I feel completely hopeless and unprepared for the exams,High,2,113.4,3.4,6.2,8,0,1.4,1
+My appetite has slightly reduced during exam preparation,Moderate,1,87.1,5.9,8.1,3,3,2.5,6
+I get nervous but can still function and study normally,Moderate,1,86.3,6.4,6.3,5,3,2.0,12
+My appetite has slightly reduced during exam preparation,Moderate,1,89.3,6.4,6.9,5,6,2.0,21
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,88.3,5.7,6.5,2,6,1.9,25
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,89.3,5.3,6.6,5,6,1.9,25
+I experience panic attacks when I think about exams,High,2,96.1,2.8,9.2,7,0,1.9,8
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,82.2,6.6,7.8,2,6,1.3,22
+I feel stressed but try to manage it with breaks,Moderate,1,76.8,5.1,5.5,5,6,2.1,14
+I feel moderate pressure from family expectations about results,Moderate,1,79.7,6.1,5.8,4,3,1.7,17
+I feel tense when thinking about results but manage to study,Moderate,1,88.9,6.6,5.8,5,5,1.8,21
+The thought of the exam fills me with dread and terror,High,2,101.4,4.4,8.2,7,2,1.1,2
+I enjoy studying and feel ready for assessments,Low,0,68.6,8.6,6.0,1,5,2.4,38
+I have been studying consistently and feel confident,Low,0,81.3,7.7,3.8,1,8,2.7,30
+I enjoy studying and feel ready for assessments,Low,0,76.0,7.0,6.4,1,10,2.1,57
+I am calm and focused during my study sessions,Low,0,71.8,6.8,5.1,2,8,2.3,39
+I have been feeling restless lately because of exams,Moderate,1,70.0,6.6,6.5,2,3,1.8,18
+I feel good about my chances in the exam,Low,0,59.6,7.1,5.6,1,7,2.4,45
+I cry frequently because of the unbearable exam pressure,High,2,99.9,5.4,7.7,5,2,1.3,9
+I have been having severe headaches and chest tightness from stress,High,2,104.7,4.2,9.0,7,1,0.8,1
+No major worries just some normal exam jitters,Low,0,73.2,6.5,3.3,1,5,2.3,21
+My mind goes completely blank whenever I try to study,High,2,87.3,5.2,10.4,10,2,0.7,4
+My appetite has slightly reduced during exam preparation,Moderate,1,87.9,5.2,7.8,5,2,2.3,9
+I feel completely hopeless and unprepared for the exams,High,2,104.6,5.5,8.8,8,1,1.1,9
+I have been feeling restless lately because of exams,Moderate,1,78.6,6.1,7.5,5,6,2.2,6
+I have been having severe headaches and chest tightness from stress,High,2,107.6,5.9,6.5,10,1,0.9,7
+I feel stressed but try to manage it with breaks,Moderate,1,72.6,7.0,7.0,4,2,1.9,20
+I have been having severe headaches and chest tightness from stress,High,2,84.1,4.3,10.8,8,1,0.7,5
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,83.7,6.4,7.0,5,5,2.3,6
+I have been having severe headaches and chest tightness from stress,High,2,103.6,4.5,8.1,14,0,1.4,6
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,82.4,5.9,7.1,3,3,2.1,24
+I experience panic attacks when I think about exams,High,2,99.8,3.7,10.2,6,1,0.9,9
+I am calm and focused during my study sessions,Low,0,64.0,7.2,5.0,0,5,2.5,55
+I feel tense when thinking about results but manage to study,Moderate,1,71.3,6.1,5.2,3,5,2.0,17
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,89.7,6.7,6.2,3,4,1.9,18
+The thought of the exam fills me with dread and terror,High,2,94.4,4.7,10.7,9,0,1.0,7
+I have not been able to sleep for days because of exam fear,High,2,98.3,3.7,7.7,9,0,1.6,2
+I cry frequently because of the unbearable exam pressure,High,2,102.3,4.0,10.3,6,2,0.8,4
+I have been having severe headaches and chest tightness from stress,High,2,113.3,5.5,9.3,12,2,1.5,10
+My heart races and I feel nauseous when exam date approaches,High,2,92.7,5.2,9.8,14,0,1.3,2
+I enjoy studying and feel ready for assessments,Low,0,75.2,8.6,4.7,2,7,2.6,26
+I feel completely hopeless and unprepared for the exams,High,2,104.2,5.1,9.0,13,2,0.9,3
+I worry a bit about failing but I keep studying,Moderate,1,85.0,6.2,7.5,2,6,1.3,6
+The thought of the exam fills me with dread and terror,High,2,100.2,4.4,12.4,9,2,1.5,3
+I have not been able to sleep for days because of exam fear,High,2,91.4,4.8,10.4,12,1,1.1,9
+I feel good about my chances in the exam,Low,0,70.7,6.9,6.6,2,10,2.1,26
+I feel quite relaxed about my upcoming exams,Low,0,69.8,7.6,6.4,1,10,2.1,41
+I feel like everything depends on this exam and I might fail,High,2,101.3,6.1,7.7,11,2,1.1,7
+My preparation is going smoothly without much stress,Low,0,72.8,7.7,5.3,0,7,3.2,36
+I am calm and focused during my study sessions,Low,0,73.7,6.6,5.3,0,10,2.4,49
+I get nervous but can still function and study normally,Moderate,1,86.9,6.1,7.0,2,6,1.7,23
+My heart races and I feel nauseous when exam date approaches,High,2,93.5,3.7,9.4,10,0,1.0,1
+No major worries just some normal exam jitters,Low,0,71.9,7.8,5.2,1,5,2.9,48
+I worry a bit about failing but I keep studying,Moderate,1,83.1,7.0,6.9,2,3,1.9,10
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,71.8,5.7,7.2,5,4,1.9,20
+I feel like everything depends on this exam and I might fail,High,2,87.6,4.6,7.5,13,1,1.0,10
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,88.2,5.5,5.8,3,5,1.5,12
+I have been having severe headaches and chest tightness from stress,High,2,94.3,5.2,11.5,11,1,1.6,2
+I have been feeling restless lately because of exams,Moderate,1,87.6,6.2,7.5,5,5,3.0,22
+I am constantly trembling and cannot eat or sleep properly,High,2,102.0,4.7,7.6,6,1,1.3,9
+I feel moderate pressure from family expectations about results,Moderate,1,81.0,6.4,6.5,2,6,1.8,9
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,77.5,5.3,7.2,2,3,1.8,5
+I cannot stop worrying about failing the exam at all,High,2,92.3,5.1,6.9,12,1,1.5,3
+I feel moderate pressure from family expectations about results,Moderate,1,87.1,6.8,5.2,2,4,1.9,19
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,78.7,6.5,6.8,3,6,1.8,9
+I enjoy studying and feel ready for assessments,Low,0,75.6,7.5,5.7,0,10,2.5,54
+I feel like everything depends on this exam and I might fail,High,2,93.0,3.9,9.5,5,0,1.7,4
+I feel good about my chances in the exam,Low,0,71.8,7.6,4.8,2,5,2.6,29
+I feel stressed but try to manage it with breaks,Moderate,1,83.7,5.0,7.9,5,2,1.6,9
+I feel good about my chances in the exam,Low,0,69.7,7.8,4.5,2,9,2.4,25
+I am confident in my preparation and feel steady,Low,0,69.3,7.6,3.8,2,10,2.6,54
+I feel quite relaxed about my upcoming exams,Low,0,68.8,6.9,5.0,0,7,2.3,23
+I cannot stop worrying about failing the exam at all,High,2,98.5,3.8,9.4,13,2,1.6,5
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,72.2,4.9,7.3,5,5,2.0,21
+I feel moderate pressure from family expectations about results,Moderate,1,66.5,5.7,6.5,3,3,2.2,14
+My preparation is going smoothly without much stress,Low,0,73.0,6.7,6.5,2,6,3.0,50
+I have not been able to sleep for days because of exam fear,High,2,103.5,4.7,11.9,9,2,1.5,4
+I am confident in my preparation and feel steady,Low,0,73.3,7.5,3.1,1,6,2.5,51
+I have not been able to sleep for days because of exam fear,High,2,104.8,4.8,6.7,12,1,1.0,4
+I have been studying consistently and feel confident,Low,0,74.0,7.2,4.5,1,5,2.7,33
+I feel extremely stressed and cannot focus on anything,High,2,91.0,4.3,11.1,14,0,0.5,4
+I worry a bit about failing but I keep studying,Moderate,1,80.1,5.6,7.5,2,2,1.7,13
+My appetite has slightly reduced during exam preparation,Moderate,1,86.3,5.8,6.9,2,4,1.9,14
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,92.7,6.6,6.7,5,5,1.5,15
+I feel tense when thinking about results but manage to study,Moderate,1,85.8,7.1,6.1,4,5,2.3,20
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,84.0,6.0,7.2,5,2,1.9,15
+I feel completely hopeless and unprepared for the exams,High,2,104.8,3.2,4.5,13,1,1.4,0
+I enjoy studying and feel ready for assessments,Low,0,74.2,8.0,2.6,0,6,2.2,50
+No major worries just some normal exam jitters,Low,0,80.6,7.7,5.0,2,9,2.5,38
+I feel good about my chances in the exam,Low,0,77.1,8.7,6.4,1,6,2.7,48
+Exams do not bother me much this time,Low,0,64.9,7.3,4.7,0,7,2.3,45
+I sleep well and feel mentally prepared,Low,0,76.7,6.8,2.4,0,6,2.8,54
+I get anxious during revision but calm down after some time,Moderate,1,86.0,6.0,7.0,4,6,1.6,16
+I feel quite relaxed about my upcoming exams,Low,0,67.8,6.7,4.6,0,9,2.8,25
+I feel good about my chances in the exam,Low,0,66.5,7.3,6.2,1,8,2.5,36
+I feel quite relaxed about my upcoming exams,Low,0,75.2,8.2,4.0,1,6,2.7,60
+I worry a bit about failing but I keep studying,Moderate,1,96.7,5.6,5.5,3,4,1.2,15
+Exams do not bother me much this time,Low,0,83.6,6.6,5.7,0,5,2.0,41
+I get nervous but can still function and study normally,Moderate,1,80.3,7.0,7.3,3,2,1.9,9
+I enjoy studying and feel ready for assessments,Low,0,68.8,8.1,6.4,0,9,2.3,32
+I feel a little nervous but it motivates me positively,Low,0,71.4,7.0,3.4,0,8,2.6,34
+I feel completely hopeless and unprepared for the exams,High,2,94.9,4.8,10.5,6,2,1.5,5
+I cry frequently because of the unbearable exam pressure,High,2,87.0,5.2,8.8,12,2,1.0,5
+I feel extremely stressed and cannot focus on anything,High,2,96.9,4.8,9.5,12,1,1.6,10
+I feel quite relaxed about my upcoming exams,Low,0,73.4,7.2,4.8,2,9,2.4,20
+My heart races and I feel nauseous when exam date approaches,High,2,97.4,5.5,9.9,7,0,1.1,3
+I worry a bit about failing but I keep studying,Moderate,1,73.1,5.3,6.9,3,2,1.8,10
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,79.8,6.3,5.9,5,2,2.0,5
+My appetite has slightly reduced during exam preparation,Moderate,1,71.8,6.7,6.3,4,3,2.0,23
+The thought of the exam fills me with dread and terror,High,2,89.9,5.3,8.1,8,2,1.5,3
+I feel extremely stressed and cannot focus on anything,High,2,98.2,4.1,7.7,11,0,1.0,10
+I feel tense when thinking about results but manage to study,Moderate,1,81.1,6.0,5.7,4,3,2.0,25
+I worry a bit about failing but I keep studying,Moderate,1,92.7,6.1,6.1,2,3,1.4,19
+I feel moderate pressure from family expectations about results,Moderate,1,77.0,5.5,7.5,2,4,1.9,23
+I feel completely hopeless and unprepared for the exams,High,2,99.7,4.7,7.5,6,0,1.3,5
+No major worries just some normal exam jitters,Low,0,68.7,8.0,4.8,1,9,2.3,38
+I feel completely hopeless and unprepared for the exams,High,2,105.7,5.3,10.3,14,1,1.1,9
+No major worries just some normal exam jitters,Low,0,72.8,6.8,4.9,2,6,2.2,51
+My heart races and I feel nauseous when exam date approaches,High,2,109.3,5.7,10.1,12,2,1.7,2
+The thought of the exam fills me with dread and terror,High,2,83.1,4.3,8.6,7,1,1.4,5
+I get nervous but can still function and study normally,Moderate,1,83.2,5.3,7.7,4,5,1.6,15
+I experience panic attacks when I think about exams,High,2,88.3,5.8,8.6,11,0,1.7,4
+I feel tense when thinking about results but manage to study,Moderate,1,78.7,5.8,8.2,5,5,1.9,5
+The thought of the exam fills me with dread and terror,High,2,89.4,3.9,12.1,7,0,1.2,0
+I enjoy studying and feel ready for assessments,Low,0,68.0,7.4,5.5,0,7,2.8,51
+I feel tense when thinking about results but manage to study,Moderate,1,80.7,6.3,7.1,2,2,1.2,7
+I manage my time well and feel in control,Low,0,72.5,7.1,5.0,0,5,2.6,49
+The thought of the exam fills me with dread and terror,High,2,99.6,5.4,9.7,7,0,1.6,6
+I feel tense when thinking about results but manage to study,Moderate,1,78.3,5.0,7.3,3,3,2.0,6
+I have been studying consistently and feel confident,Low,0,77.0,7.1,3.6,0,6,3.0,54
+I have been having severe headaches and chest tightness from stress,High,2,86.4,2.6,10.3,9,0,1.0,0
+I am confident in my preparation and feel steady,Low,0,77.5,8.1,5.6,0,7,2.2,55
+I feel moderate pressure from family expectations about results,Moderate,1,85.4,6.0,6.1,5,3,1.9,9
+I cry frequently because of the unbearable exam pressure,High,2,86.7,3.4,6.7,5,0,1.4,2
+I feel good about my chances in the exam,Low,0,70.8,8.3,5.5,1,9,2.7,42
+I feel tense when thinking about results but manage to study,Moderate,1,84.7,5.8,7.6,4,2,1.7,17
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,86.0,5.0,7.4,2,6,1.2,23
+I feel tense when thinking about results but manage to study,Moderate,1,75.9,7.1,6.1,5,4,2.0,16
+I worry a bit about failing but I keep studying,Moderate,1,75.8,6.1,8.7,2,4,2.5,7
+I feel completely hopeless and unprepared for the exams,High,2,77.0,6.1,9.4,9,2,1.0,10
+I feel a little nervous but it motivates me positively,Low,0,69.3,7.1,5.2,1,6,2.2,49
+I am constantly trembling and cannot eat or sleep properly,High,2,91.2,6.2,8.2,14,2,1.2,4
+I feel tense when thinking about results but manage to study,Moderate,1,85.2,7.3,6.8,2,6,1.7,21
+I enjoy studying and feel ready for assessments,Low,0,73.9,7.5,2.9,0,7,2.5,57
+No major worries just some normal exam jitters,Low,0,75.6,7.3,6.7,1,5,2.4,31
+Exams do not bother me much this time,Low,0,73.7,7.7,5.6,0,9,2.6,46
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,92.4,5.8,6.8,5,3,1.7,22
+I feel moderate pressure from family expectations about results,Moderate,1,83.5,4.4,6.8,5,3,1.5,21
+I feel moderate pressure from family expectations about results,Moderate,1,84.0,6.4,8.1,2,4,2.2,15
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,84.8,5.7,7.3,4,5,1.7,9
+I get anxious during revision but calm down after some time,Moderate,1,84.1,7.9,7.3,4,5,1.5,6
+No major worries just some normal exam jitters,Low,0,71.1,7.9,5.7,1,5,2.0,25
+I feel stressed but try to manage it with breaks,Moderate,1,78.3,5.6,6.8,5,2,1.7,12
+I get nervous but can still function and study normally,Moderate,1,79.4,6.1,8.2,3,6,1.7,22
+I am confident in my preparation and feel steady,Low,0,69.3,7.7,3.5,1,5,2.6,49
+I feel moderate pressure from family expectations about results,Moderate,1,84.6,5.6,6.0,4,3,1.2,13
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,77.3,6.3,8.5,2,4,1.9,11
+I get anxious during revision but calm down after some time,Moderate,1,88.7,6.2,6.4,4,5,1.9,9
+I manage my time well and feel in control,Low,0,74.0,6.6,6.0,1,8,2.6,37
+I am confident in my preparation and feel steady,Low,0,73.9,7.2,5.1,1,9,2.5,28
+My heart races and I feel nauseous when exam date approaches,High,2,102.5,4.6,8.7,11,2,1.6,1
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,82.7,7.2,8.2,5,5,1.8,10
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,83.0,6.5,5.9,2,5,1.7,21
+No major worries just some normal exam jitters,Low,0,72.5,7.8,4.2,2,9,3.1,23
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,84.2,7.1,6.3,3,6,2.3,5
+My mind goes completely blank whenever I try to study,High,2,103.8,2.8,10.7,5,2,1.6,10
+My appetite has slightly reduced during exam preparation,Moderate,1,87.3,4.6,8.2,5,4,1.7,19
+I am calm and focused during my study sessions,Low,0,71.8,6.9,6.1,0,6,2.7,55
+I get nervous but can still function and study normally,Moderate,1,92.5,5.3,6.2,4,5,1.4,22
+I enjoy studying and feel ready for assessments,Low,0,69.1,7.2,5.0,0,6,2.3,29
+My preparation is going smoothly without much stress,Low,0,70.8,7.2,4.0,2,9,2.4,50
+Exams do not bother me much this time,Low,0,76.8,8.6,4.4,2,10,2.1,38
+I feel tense when thinking about results but manage to study,Moderate,1,84.9,6.9,5.1,3,4,1.8,24
+I feel quite relaxed about my upcoming exams,Low,0,75.7,7.6,6.3,2,9,3.0,40
+I manage my time well and feel in control,Low,0,68.9,7.3,4.6,2,6,2.6,25
+My preparation is going smoothly without much stress,Low,0,70.5,8.2,4.8,1,6,2.5,49
+The thought of the exam fills me with dread and terror,High,2,94.7,4.7,7.5,9,1,0.9,2
+I enjoy studying and feel ready for assessments,Low,0,76.8,7.2,4.1,2,7,2.6,59
+I feel stressed but try to manage it with breaks,Moderate,1,76.5,5.7,5.9,5,3,1.7,10
+I am constantly trembling and cannot eat or sleep properly,High,2,83.8,2.4,9.6,11,2,1.2,3
+I cannot stop worrying about failing the exam at all,High,2,102.3,4.2,9.6,5,0,1.4,3
+I feel stressed but try to manage it with breaks,Moderate,1,90.2,5.7,6.6,2,3,2.1,18
+I feel like everything depends on this exam and I might fail,High,2,81.4,3.5,5.9,9,1,1.2,4
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,82.6,5.5,7.7,2,4,2.2,7
+My heart races and I feel nauseous when exam date approaches,High,2,88.4,4.0,7.8,14,1,1.4,9
+I worry a bit about failing but I keep studying,Moderate,1,79.9,6.0,4.5,4,4,1.6,12
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,80.2,5.9,6.9,3,4,1.7,25
+I feel a little nervous but it motivates me positively,Low,0,67.4,7.5,1.8,1,10,2.2,23
+I have been feeling restless lately because of exams,Moderate,1,75.1,6.5,6.0,3,3,1.6,25
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,74.8,7.4,7.9,3,5,1.8,15
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,80.0,5.9,7.3,3,2,1.7,6
+The thought of the exam fills me with dread and terror,High,2,102.0,4.7,9.7,5,1,1.0,2
+I have been having severe headaches and chest tightness from stress,High,2,98.6,4.1,10.3,5,2,0.8,7
+I have been studying consistently and feel confident,Low,0,65.0,8.4,3.8,1,7,2.3,41
+I feel good about my chances in the exam,Low,0,68.7,7.3,4.7,0,7,2.6,29
+My heart races and I feel nauseous when exam date approaches,High,2,104.3,3.4,7.5,6,0,1.1,7
+I feel like everything depends on this exam and I might fail,High,2,95.1,4.7,10.9,7,0,0.9,5
+I am calm and focused during my study sessions,Low,0,73.2,6.7,5.3,1,7,2.8,47
+I feel tense when thinking about results but manage to study,Moderate,1,81.6,5.3,4.4,4,3,1.7,8
+I am confident in my preparation and feel steady,Low,0,75.4,8.4,5.6,2,7,2.4,42
+I am confident in my preparation and feel steady,Low,0,67.6,7.1,4.8,0,7,2.6,47
+I am calm and focused during my study sessions,Low,0,65.6,7.9,5.7,1,5,2.5,24
+I cry frequently because of the unbearable exam pressure,High,2,104.1,3.5,9.3,11,0,1.5,7
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,89.6,7.4,5.8,5,2,1.9,16
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,79.4,5.6,6.5,3,6,2.1,19
+I manage my time well and feel in control,Low,0,66.1,7.7,5.6,2,10,2.6,51
+I feel like everything depends on this exam and I might fail,High,2,85.1,4.7,9.8,6,1,1.4,0
+My mind goes completely blank whenever I try to study,High,2,97.8,4.2,9.9,11,2,1.4,1
+I feel stressed but try to manage it with breaks,Moderate,1,81.9,6.2,6.9,4,3,2.2,13
+I have not been able to sleep for days because of exam fear,High,2,105.5,3.5,10.1,11,2,1.4,5
+I am constantly trembling and cannot eat or sleep properly,High,2,103.0,3.7,8.9,14,0,1.1,9
+I am calm and focused during my study sessions,Low,0,81.0,7.8,4.4,0,6,2.7,38
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,80.9,6.1,6.0,5,2,1.7,9
+I feel tense when thinking about results but manage to study,Moderate,1,80.8,5.1,6.6,2,5,1.9,23
+I have been studying consistently and feel confident,Low,0,82.7,6.5,4.8,1,9,2.7,26
+I enjoy studying and feel ready for assessments,Low,0,76.4,7.6,7.2,0,9,2.3,36
+I feel tense when thinking about results but manage to study,Moderate,1,81.9,5.7,6.8,2,5,2.2,19
+I have been studying consistently and feel confident,Low,0,66.7,7.7,4.1,0,5,3.0,29
+I experience panic attacks when I think about exams,High,2,101.6,3.6,8.8,14,0,1.0,8
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,84.4,6.3,7.7,4,5,1.9,16
+I feel moderate pressure from family expectations about results,Moderate,1,82.0,6.5,7.2,3,2,1.6,19
+I get nervous but can still function and study normally,Moderate,1,74.6,5.9,5.5,5,5,2.0,23
+I enjoy studying and feel ready for assessments,Low,0,65.9,6.8,5.2,1,8,2.8,25
+I am confident in my preparation and feel steady,Low,0,73.3,7.9,5.1,2,10,2.8,37
+I feel moderate pressure from family expectations about results,Moderate,1,79.4,7.0,8.7,2,2,2.1,17
+I am constantly trembling and cannot eat or sleep properly,High,2,106.2,4.8,7.2,10,2,0.9,0
+I feel stressed but try to manage it with breaks,Moderate,1,87.2,6.3,7.5,3,6,1.6,21
+Exams do not bother me much this time,Low,0,71.3,6.9,4.8,2,6,2.2,34
+I experience panic attacks when I think about exams,High,2,94.6,5.1,9.7,13,0,1.0,7
+I feel a little nervous but it motivates me positively,Low,0,74.7,7.4,4.8,2,10,2.8,55
+I sleep well and feel mentally prepared,Low,0,67.9,7.3,5.4,0,9,2.3,24
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,83.1,6.2,5.7,3,4,1.6,21
+No major worries just some normal exam jitters,Low,0,75.1,7.8,5.0,1,9,2.2,53
+I get anxious during revision but calm down after some time,Moderate,1,82.4,6.0,7.7,2,6,1.9,9
+I cannot stop worrying about failing the exam at all,High,2,99.3,4.3,11.1,11,2,1.5,4
+I get anxious during revision but calm down after some time,Moderate,1,79.5,6.2,7.5,5,4,1.9,20
+I cry frequently because of the unbearable exam pressure,High,2,100.2,4.9,9.0,11,0,1.3,1
+I feel extremely stressed and cannot focus on anything,High,2,92.6,3.4,7.5,5,0,1.4,5
+I worry a bit about failing but I keep studying,Moderate,1,84.9,5.2,7.1,4,6,0.9,24
+I feel stressed but try to manage it with breaks,Moderate,1,77.4,6.2,8.0,2,3,2.0,25
+I feel stressed but try to manage it with breaks,Moderate,1,80.4,6.0,9.1,3,3,1.7,24
+I feel completely hopeless and unprepared for the exams,High,2,87.0,5.4,9.2,5,1,1.1,0
+I cannot stop worrying about failing the exam at all,High,2,96.2,3.3,9.2,10,1,1.9,4
+I feel quite relaxed about my upcoming exams,Low,0,66.8,7.8,6.2,0,7,2.7,51
+No major worries just some normal exam jitters,Low,0,74.8,8.0,5.8,2,10,2.6,35
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,91.4,5.8,7.3,3,3,1.9,7
+I feel moderate pressure from family expectations about results,Moderate,1,87.1,5.0,8.2,3,6,1.9,21
+No major worries just some normal exam jitters,Low,0,79.3,7.4,5.1,0,9,2.1,32
+My preparation is going smoothly without much stress,Low,0,70.1,7.4,4.4,0,10,2.2,39
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,76.5,5.5,6.6,5,4,1.4,17
+I get anxious during revision but calm down after some time,Moderate,1,84.8,5.5,6.6,4,2,2.1,10
+I am constantly trembling and cannot eat or sleep properly,High,2,98.2,4.7,6.5,14,2,0.9,7
+I feel like everything depends on this exam and I might fail,High,2,92.1,3.7,8.7,7,0,1.3,3
+I experience panic attacks when I think about exams,High,2,98.2,4.5,6.6,9,1,1.6,2
+My preparation is going smoothly without much stress,Low,0,79.8,7.6,6.2,1,5,2.5,25
+I feel tense when thinking about results but manage to study,Moderate,1,81.7,7.0,5.4,4,2,1.6,22
+I get anxious during revision but calm down after some time,Moderate,1,89.3,6.8,6.8,3,5,1.8,22
+No major worries just some normal exam jitters,Low,0,80.8,7.7,3.7,1,6,2.8,50
+I feel quite relaxed about my upcoming exams,Low,0,80.2,6.9,5.3,2,8,2.3,25
+I feel completely hopeless and unprepared for the exams,High,2,76.9,5.2,9.0,11,2,1.6,7
+I sleep well and feel mentally prepared,Low,0,65.7,8.2,4.9,2,7,2.8,25
+I am calm and focused during my study sessions,Low,0,77.3,8.1,6.4,0,5,2.7,32
+I feel good about my chances in the exam,Low,0,73.7,7.3,5.6,0,7,3.2,52
+I experience panic attacks when I think about exams,High,2,106.4,4.9,10.3,10,2,1.4,0
+My preparation is going smoothly without much stress,Low,0,69.2,7.6,6.5,1,7,3.1,52
+I feel a little nervous but it motivates me positively,Low,0,64.4,8.2,6.6,2,10,2.4,35
+I cry frequently because of the unbearable exam pressure,High,2,103.2,4.9,10.8,14,0,0.8,5
+I am confident in my preparation and feel steady,Low,0,79.0,8.0,5.1,1,10,2.3,49
+I have been having severe headaches and chest tightness from stress,High,2,98.9,5.5,8.0,6,1,1.0,10
+I manage my time well and feel in control,Low,0,73.0,6.5,3.7,1,6,2.6,33
+I worry a bit about failing but I keep studying,Moderate,1,81.1,5.4,8.1,4,2,1.8,21
+I feel extremely stressed and cannot focus on anything,High,2,100.0,4.1,9.8,7,0,1.8,9
+I manage my time well and feel in control,Low,0,76.6,7.1,6.5,2,7,2.4,43
+I feel completely hopeless and unprepared for the exams,High,2,92.4,3.9,9.0,12,1,1.1,8
+I have been feeling restless lately because of exams,Moderate,1,82.2,4.7,6.5,4,3,1.8,21
+I cry frequently because of the unbearable exam pressure,High,2,94.5,5.5,10.5,6,2,1.5,9
+I enjoy studying and feel ready for assessments,Low,0,73.2,7.9,3.5,1,10,2.8,30
+I get anxious during revision but calm down after some time,Moderate,1,71.6,6.1,7.0,3,2,1.6,23
+My heart races and I feel nauseous when exam date approaches,High,2,96.8,4.1,6.3,6,0,0.5,5
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,80.7,5.8,8.3,2,3,2.0,9
+I am confident in my preparation and feel steady,Low,0,61.6,8.3,5.2,0,8,2.5,28
+I feel like everything depends on this exam and I might fail,High,2,99.1,5.2,8.0,5,0,0.3,2
+I have been having severe headaches and chest tightness from stress,High,2,97.9,3.6,7.5,14,2,0.9,8
+I worry a bit about failing but I keep studying,Moderate,1,73.9,5.8,7.9,3,2,2.0,17
+I cannot stop worrying about failing the exam at all,High,2,95.8,5.5,7.4,8,1,0.2,5
+I feel a little nervous but it motivates me positively,Low,0,69.0,7.4,4.4,0,8,3.1,57
+I get nervous but can still function and study normally,Moderate,1,83.5,5.4,6.2,5,3,2.0,11
+I feel extremely stressed and cannot focus on anything,High,2,99.2,4.6,8.9,11,2,0.8,4
+I am confident in my preparation and feel steady,Low,0,70.9,7.4,5.3,1,6,2.7,48
+Exams do not bother me much this time,Low,0,66.7,7.3,4.4,2,7,2.4,34
+My appetite has slightly reduced during exam preparation,Moderate,1,85.9,6.3,7.4,3,5,1.2,22
+I have been having severe headaches and chest tightness from stress,High,2,95.6,3.7,10.7,10,2,1.9,9
+I am confident in my preparation and feel steady,Low,0,74.0,7.8,4.5,1,7,3.0,52
+I have been having severe headaches and chest tightness from stress,High,2,97.9,3.9,5.7,13,1,1.6,6
+My mind goes completely blank whenever I try to study,High,2,108.7,5.0,11.1,13,0,0.8,5
+I feel extremely stressed and cannot focus on anything,High,2,89.1,4.6,10.7,12,1,1.1,5
+I experience panic attacks when I think about exams,High,2,88.1,4.3,10.8,9,2,1.5,1
+I have been feeling restless lately because of exams,Moderate,1,85.3,5.4,6.1,2,6,2.1,9
+I feel like everything depends on this exam and I might fail,High,2,101.1,5.3,9.6,14,0,1.2,5
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,83.6,6.2,6.9,5,2,1.9,14
+I cry frequently because of the unbearable exam pressure,High,2,98.5,3.6,7.7,10,0,1.7,7
+I cannot stop worrying about failing the exam at all,High,2,87.4,5.9,7.7,6,1,1.3,7
+I feel tense when thinking about results but manage to study,Moderate,1,92.8,6.5,7.1,4,4,1.3,23
+I have been feeling restless lately because of exams,Moderate,1,83.1,6.4,5.8,2,4,2.1,13
+I cannot stop worrying about failing the exam at all,High,2,105.9,4.8,7.5,7,2,1.1,6
+Exams do not bother me much this time,Low,0,73.2,8.3,4.9,1,6,2.6,43
+I feel extremely stressed and cannot focus on anything,High,2,96.1,4.9,8.6,11,2,0.6,0
+I manage my time well and feel in control,Low,0,68.8,7.2,4.4,1,9,2.3,37
+Exams do not bother me much this time,Low,0,75.4,7.3,5.3,1,6,2.5,23
+Exams do not bother me much this time,Low,0,74.4,7.7,6.0,0,6,2.3,21
+My appetite has slightly reduced during exam preparation,Moderate,1,79.2,7.1,6.5,4,6,1.3,21
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,88.7,5.7,5.3,4,3,1.5,9
+I feel stressed but try to manage it with breaks,Moderate,1,80.8,6.1,5.2,4,6,1.9,15
+I manage my time well and feel in control,Low,0,71.7,6.9,4.3,1,5,2.5,41
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,82.2,6.5,5.1,3,5,2.2,16
+I get anxious during revision but calm down after some time,Moderate,1,79.1,6.7,6.7,3,4,1.7,14
+I am constantly trembling and cannot eat or sleep properly,High,2,103.6,4.7,6.7,5,1,1.1,5
+I get anxious during revision but calm down after some time,Moderate,1,84.3,5.7,7.8,4,6,1.5,17
+The thought of the exam fills me with dread and terror,High,2,92.0,3.4,9.5,6,0,1.2,8
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,81.4,4.6,7.6,5,3,1.4,9
+I worry a bit about failing but I keep studying,Moderate,1,70.5,5.6,7.0,3,3,1.5,11
+No major worries just some normal exam jitters,Low,0,72.2,7.1,5.5,0,10,2.3,24
+I feel a little nervous but it motivates me positively,Low,0,69.0,7.7,4.0,1,6,2.6,46
+I feel good about my chances in the exam,Low,0,74.5,7.4,5.6,0,5,3.0,37
+I feel quite relaxed about my upcoming exams,Low,0,75.3,8.1,5.2,1,7,2.1,32
+My heart races and I feel nauseous when exam date approaches,High,2,100.0,3.8,10.1,8,0,1.0,6
+My appetite has slightly reduced during exam preparation,Moderate,1,87.2,5.8,8.2,3,4,1.9,6
+I feel tense when thinking about results but manage to study,Moderate,1,85.7,4.7,5.8,4,3,1.7,25
+I feel stressed but try to manage it with breaks,Moderate,1,75.3,5.0,6.4,5,3,2.1,9
+I manage my time well and feel in control,Low,0,75.6,7.7,4.6,1,8,2.8,46
+I feel tense when thinking about results but manage to study,Moderate,1,94.4,6.0,6.3,3,2,1.3,12
+I feel a little nervous but it motivates me positively,Low,0,76.6,8.5,3.6,2,9,2.7,41
+I feel extremely stressed and cannot focus on anything,High,2,104.0,5.9,6.5,8,2,0.7,3
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,97.5,6.5,7.0,3,5,1.7,21
+Exams do not bother me much this time,Low,0,74.6,8.3,4.9,1,8,2.6,28
+I feel extremely stressed and cannot focus on anything,High,2,101.1,5.8,6.9,5,0,1.2,2
+My preparation is going smoothly without much stress,Low,0,72.9,7.4,5.0,0,5,2.6,36
+I feel extremely stressed and cannot focus on anything,High,2,95.5,4.7,8.6,5,0,1.6,2
+My mind goes completely blank whenever I try to study,High,2,79.4,4.2,11.5,10,2,1.3,3
+I have been studying consistently and feel confident,Low,0,75.5,7.7,5.9,2,6,2.7,36
+I enjoy studying and feel ready for assessments,Low,0,73.0,7.2,5.1,1,6,2.4,47
+I feel quite relaxed about my upcoming exams,Low,0,68.2,6.6,3.4,2,8,2.5,20
+I have been studying consistently and feel confident,Low,0,72.6,7.3,5.1,2,8,2.7,20
+The thought of the exam fills me with dread and terror,High,2,95.6,4.1,9.3,7,1,1.5,7
+I am confident in my preparation and feel steady,Low,0,74.7,7.1,5.0,1,5,2.5,45
+I have not been able to sleep for days because of exam fear,High,2,93.1,2.9,8.4,8,1,1.1,8
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,82.8,5.4,6.8,5,4,1.6,13
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,75.9,5.4,7.6,3,2,1.5,5
+I feel extremely stressed and cannot focus on anything,High,2,86.9,5.2,8.9,13,2,1.2,0
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,77.2,5.0,6.4,4,3,2.1,23
+I sleep well and feel mentally prepared,Low,0,74.7,7.9,4.4,1,8,1.7,38
+I feel like everything depends on this exam and I might fail,High,2,106.4,3.6,8.5,7,0,1.2,9
+Exams do not bother me much this time,Low,0,72.1,7.5,5.2,1,7,2.5,40
+I feel a little nervous but it motivates me positively,Low,0,72.3,8.7,4.8,2,8,2.6,29
+I get anxious during revision but calm down after some time,Moderate,1,84.6,5.6,4.6,2,2,1.8,15
+I am calm and focused during my study sessions,Low,0,75.2,8.0,5.6,0,9,2.0,21
+The thought of the exam fills me with dread and terror,High,2,87.5,2.5,9.3,10,2,1.4,4
+I feel a little nervous but it motivates me positively,Low,0,66.4,8.4,5.9,0,6,2.9,46
+My mind goes completely blank whenever I try to study,High,2,91.1,4.9,6.7,14,2,0.8,6
+I enjoy studying and feel ready for assessments,Low,0,66.6,7.8,5.6,2,10,2.4,54
+My appetite has slightly reduced during exam preparation,Moderate,1,83.5,6.1,6.4,5,3,1.7,19
+The thought of the exam fills me with dread and terror,High,2,87.2,3.3,7.9,13,0,1.6,10
+My appetite has slightly reduced during exam preparation,Moderate,1,82.4,4.8,6.9,3,3,1.6,5
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,86.3,6.1,6.8,5,6,1.8,19
+I have been studying consistently and feel confident,Low,0,69.1,7.9,5.4,0,6,2.3,46
+My mind goes completely blank whenever I try to study,High,2,110.8,4.7,8.5,5,2,0.7,5
+I feel stressed but try to manage it with breaks,Moderate,1,87.2,5.7,8.1,4,5,2.0,21
+My preparation is going smoothly without much stress,Low,0,66.9,7.9,5.2,1,6,2.3,23
+I have been studying consistently and feel confident,Low,0,67.8,7.7,4.4,0,10,2.7,46
+I feel completely hopeless and unprepared for the exams,High,2,99.7,4.1,9.5,14,0,0.9,3
+I enjoy studying and feel ready for assessments,Low,0,73.3,7.0,5.6,2,10,2.0,32
+I experience panic attacks when I think about exams,High,2,92.4,5.9,7.7,6,2,1.4,1
+I feel stressed but try to manage it with breaks,Moderate,1,92.5,6.7,7.9,3,6,1.7,17
+I feel extremely stressed and cannot focus on anything,High,2,98.6,4.5,7.8,8,0,1.4,9
+I feel quite relaxed about my upcoming exams,Low,0,62.8,6.9,4.4,2,9,2.5,23
+I enjoy studying and feel ready for assessments,Low,0,76.8,7.7,5.8,0,9,3.1,26
+I enjoy studying and feel ready for assessments,Low,0,70.7,7.9,6.5,2,8,2.5,55
+I feel like everything depends on this exam and I might fail,High,2,95.4,4.4,12.0,9,1,0.8,4
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,78.9,6.0,5.9,5,6,1.5,18
+I feel stressed but try to manage it with breaks,Moderate,1,71.7,6.4,6.4,3,4,1.4,21
+The thought of the exam fills me with dread and terror,High,2,89.1,4.5,9.0,14,0,1.3,7
+I cry frequently because of the unbearable exam pressure,High,2,107.9,4.3,8.2,11,1,1.1,4
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,80.2,5.9,9.6,2,4,1.3,8
+I feel stressed but try to manage it with breaks,Moderate,1,81.2,6.5,8.3,3,5,2.2,6
+Exams do not bother me much this time,Low,0,73.5,7.6,5.0,2,7,2.4,23
+I have been feeling restless lately because of exams,Moderate,1,93.9,5.8,6.2,3,3,1.6,25
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,86.8,6.6,6.4,3,5,1.8,22
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,89.5,5.7,6.9,3,6,2.2,21
+The thought of the exam fills me with dread and terror,High,2,98.8,4.6,9.5,10,0,1.3,8
+I manage my time well and feel in control,Low,0,69.1,7.8,6.7,0,9,2.6,20
+I have not been able to sleep for days because of exam fear,High,2,96.6,2.8,9.7,11,1,0.9,2
+I experience panic attacks when I think about exams,High,2,89.1,3.6,8.6,14,2,1.0,9
+I enjoy studying and feel ready for assessments,Low,0,73.6,7.4,4.5,1,8,2.0,52
+I feel tense when thinking about results but manage to study,Moderate,1,70.1,5.5,6.8,2,4,1.5,7
+I feel quite relaxed about my upcoming exams,Low,0,71.9,8.1,5.5,0,8,2.4,53
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,86.7,6.1,6.4,2,5,1.9,15
+I have not been able to sleep for days because of exam fear,High,2,95.3,4.9,10.4,14,1,1.2,5
+I feel tense when thinking about results but manage to study,Moderate,1,79.3,6.0,6.6,2,6,1.6,24
+I feel a little nervous but it motivates me positively,Low,0,73.0,8.1,4.0,1,10,2.5,47
+I worry a bit about failing but I keep studying,Moderate,1,90.3,5.8,7.4,4,3,1.6,7
+I feel a little nervous but it motivates me positively,Low,0,64.2,7.8,3.7,1,10,3.0,45
+I am calm and focused during my study sessions,Low,0,71.8,8.3,2.4,1,10,2.7,43
+My heart races and I feel nauseous when exam date approaches,High,2,98.1,4.3,9.0,11,2,1.1,0
+I cannot stop worrying about failing the exam at all,High,2,89.0,3.9,10.8,12,0,1.6,3
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,77.2,5.3,7.3,2,6,1.8,20
+Exams do not bother me much this time,Low,0,66.0,7.3,4.5,2,6,2.3,56
+I am calm and focused during my study sessions,Low,0,70.7,7.4,4.9,1,5,2.5,45
+I cannot stop worrying about failing the exam at all,High,2,88.3,3.4,6.6,10,2,1.3,3
+My preparation is going smoothly without much stress,Low,0,76.4,7.7,5.2,2,8,2.6,27
+I cry frequently because of the unbearable exam pressure,High,2,90.3,6.1,8.2,12,0,1.3,10
+I am calm and focused during my study sessions,Low,0,71.3,7.5,4.2,0,5,2.7,21
+The thought of the exam fills me with dread and terror,High,2,107.0,4.8,10.0,7,1,1.6,1
+I experience panic attacks when I think about exams,High,2,107.7,4.9,10.4,11,0,1.1,1
+I cry frequently because of the unbearable exam pressure,High,2,100.6,3.5,7.1,6,2,1.3,1
+I have been feeling restless lately because of exams,Moderate,1,69.6,4.5,6.4,2,4,1.9,17
+I cry frequently because of the unbearable exam pressure,High,2,98.7,3.7,9.3,6,2,0.9,10
+I feel tense when thinking about results but manage to study,Moderate,1,80.4,6.4,5.4,3,3,1.9,18
+I have not been able to sleep for days because of exam fear,High,2,89.6,4.8,10.9,13,2,0.5,8
+My mind goes completely blank whenever I try to study,High,2,88.2,5.3,9.5,14,0,1.1,4
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,84.0,6.3,5.9,4,6,2.2,9
+I sleep well and feel mentally prepared,Low,0,73.5,6.8,5.5,2,5,2.5,57
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,85.3,6.8,9.0,3,6,2.1,15
+I have been having severe headaches and chest tightness from stress,High,2,89.5,3.6,9.4,6,0,1.3,8
+My mind goes completely blank whenever I try to study,High,2,84.8,5.0,7.9,14,0,1.1,10
+Exams do not bother me much this time,Low,0,75.9,7.2,4.2,2,5,2.5,53
+I feel moderate pressure from family expectations about results,Moderate,1,90.1,7.8,7.6,5,5,1.9,24
+My preparation is going smoothly without much stress,Low,0,76.5,7.7,5.8,1,6,2.7,45
+I feel extremely stressed and cannot focus on anything,High,2,95.7,3.2,9.6,7,2,1.0,6
+The thought of the exam fills me with dread and terror,High,2,92.9,4.2,8.3,12,0,0.8,0
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,78.9,5.9,6.2,2,4,1.7,7
+I feel extremely stressed and cannot focus on anything,High,2,97.8,4.5,7.5,7,0,1.6,2
+I get nervous but can still function and study normally,Moderate,1,88.2,6.6,6.2,4,3,1.8,8
+I feel good about my chances in the exam,Low,0,71.5,7.0,4.4,0,7,2.1,55
+I have been feeling restless lately because of exams,Moderate,1,88.0,6.4,6.8,2,2,1.7,11
+I have been feeling restless lately because of exams,Moderate,1,93.0,6.9,5.7,3,5,2.0,21
+I feel tense when thinking about results but manage to study,Moderate,1,86.3,6.2,7.4,5,6,1.4,17
+I manage my time well and feel in control,Low,0,71.9,7.4,5.3,1,6,2.3,40
+I feel like everything depends on this exam and I might fail,High,2,100.4,2.8,9.0,8,2,1.2,3
+I get nervous but can still function and study normally,Moderate,1,90.1,6.5,7.4,2,5,2.1,20
+My heart races and I feel nauseous when exam date approaches,High,2,105.4,4.0,9.1,7,0,1.2,4
+I have not been able to sleep for days because of exam fear,High,2,94.9,4.7,8.2,7,0,1.6,6
+I cry frequently because of the unbearable exam pressure,High,2,80.2,5.1,5.9,14,0,1.2,2
+I have been studying consistently and feel confident,Low,0,64.6,7.1,4.5,1,7,2.8,58
+I am confident in my preparation and feel steady,Low,0,74.1,7.8,5.2,0,7,2.4,58
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,73.9,4.0,6.5,4,4,2.0,20
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,80.8,5.5,7.7,4,6,1.7,6
+I feel good about my chances in the exam,Low,0,70.8,7.1,4.1,1,10,2.3,52
+I am confident in my preparation and feel steady,Low,0,58.7,8.0,6.2,0,5,1.9,46
+I get nervous but can still function and study normally,Moderate,1,90.8,6.0,6.0,4,2,1.6,12
+I feel tense when thinking about results but manage to study,Moderate,1,95.0,8.2,7.6,5,4,1.7,22
+I have been studying consistently and feel confident,Low,0,69.7,7.7,5.0,1,7,2.6,46
+My heart races and I feel nauseous when exam date approaches,High,2,102.2,4.5,8.4,7,2,0.6,6
+I worry a bit about failing but I keep studying,Moderate,1,85.5,5.8,7.7,5,2,2.4,15
+I get nervous but can still function and study normally,Moderate,1,86.8,5.4,7.9,3,2,1.6,13
+I have been feeling restless lately because of exams,Moderate,1,73.4,6.1,9.0,2,3,1.8,15
+The thought of the exam fills me with dread and terror,High,2,103.0,4.5,9.6,11,1,0.9,6
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,89.5,5.1,7.6,2,3,2.2,21
+I worry a bit about failing but I keep studying,Moderate,1,84.2,5.5,5.9,5,4,2.0,7
+I feel completely hopeless and unprepared for the exams,High,2,110.9,4.1,9.5,13,1,0.7,6
+I have not been able to sleep for days because of exam fear,High,2,100.6,4.4,11.1,10,2,1.1,8
+I cannot stop worrying about failing the exam at all,High,2,90.1,5.8,8.6,9,1,1.2,7
+I cannot stop worrying about failing the exam at all,High,2,95.6,4.8,10.3,7,2,1.2,10
+My preparation is going smoothly without much stress,Low,0,75.1,7.0,4.7,0,8,2.0,39
+I am calm and focused during my study sessions,Low,0,72.8,7.5,5.4,1,10,2.9,46
+I manage my time well and feel in control,Low,0,69.6,7.4,3.9,2,6,2.1,24
+I have been having severe headaches and chest tightness from stress,High,2,102.3,3.9,7.8,7,2,1.5,0
+My preparation is going smoothly without much stress,Low,0,76.6,7.4,5.3,0,6,2.6,44
+I feel moderate pressure from family expectations about results,Moderate,1,89.7,5.8,7.6,3,3,1.5,13
+I feel extremely stressed and cannot focus on anything,High,2,102.4,3.0,9.1,6,2,1.4,1
+I get anxious during revision but calm down after some time,Moderate,1,79.4,6.3,6.5,2,3,1.6,12
+I am confident in my preparation and feel steady,Low,0,75.0,8.1,5.8,1,7,2.7,39
+No major worries just some normal exam jitters,Low,0,72.6,7.6,4.6,2,10,2.5,21
+I am calm and focused during my study sessions,Low,0,63.4,8.2,4.9,2,5,2.9,28
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,79.7,5.1,6.5,2,5,1.8,16
+I am confident in my preparation and feel steady,Low,0,69.4,7.8,5.1,0,6,2.8,49
+No major worries just some normal exam jitters,Low,0,66.8,6.5,7.1,1,7,2.2,22
+I feel tense when thinking about results but manage to study,Moderate,1,77.7,6.7,7.9,4,5,2.2,9
+My heart races and I feel nauseous when exam date approaches,High,2,87.3,4.6,10.5,9,2,1.4,5
+The thought of the exam fills me with dread and terror,High,2,80.5,3.9,7.7,14,2,1.2,9
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,80.0,6.2,7.3,2,6,1.7,22
+My heart races and I feel nauseous when exam date approaches,High,2,100.1,4.3,9.0,13,1,1.0,1
+I have been studying consistently and feel confident,Low,0,71.9,7.8,5.1,0,6,2.2,45
+I get anxious during revision but calm down after some time,Moderate,1,77.4,6.8,6.5,3,2,2.0,21
+I cry frequently because of the unbearable exam pressure,High,2,108.9,5.2,10.6,11,0,1.1,5
+I feel quite relaxed about my upcoming exams,Low,0,75.3,8.5,4.8,0,7,2.3,34
+I am confident in my preparation and feel steady,Low,0,79.2,7.6,6.0,0,8,2.1,31
+I cannot stop worrying about failing the exam at all,High,2,85.0,4.8,6.0,10,1,1.2,4
+I feel like everything depends on this exam and I might fail,High,2,106.2,4.4,9.8,5,1,1.5,3
+No major worries just some normal exam jitters,Low,0,79.3,8.0,7.2,2,5,2.3,24
+I feel completely hopeless and unprepared for the exams,High,2,92.0,4.4,7.5,6,2,1.2,10
+I have been studying consistently and feel confident,Low,0,77.8,7.5,4.0,0,6,2.6,32
+I am constantly trembling and cannot eat or sleep properly,High,2,89.3,4.0,7.8,8,0,0.9,8
+I enjoy studying and feel ready for assessments,Low,0,77.9,6.9,5.6,2,7,2.7,46
+I get nervous but can still function and study normally,Moderate,1,80.1,5.8,6.2,4,4,1.4,17
+I feel good about my chances in the exam,Low,0,67.9,7.6,5.2,0,8,2.3,27
+I feel stressed but try to manage it with breaks,Moderate,1,76.7,5.3,8.0,3,2,2.3,9
+I have been feeling restless lately because of exams,Moderate,1,78.3,6.9,5.8,5,2,2.1,11
+I feel good about my chances in the exam,Low,0,73.4,6.9,7.4,2,5,2.5,26
+I feel quite relaxed about my upcoming exams,Low,0,67.9,7.2,5.7,0,8,2.7,20
+The thought of the exam fills me with dread and terror,High,2,103.9,3.9,6.7,14,0,1.2,1
+I get nervous but can still function and study normally,Moderate,1,85.6,6.5,7.5,3,4,2.3,22
+I get nervous but can still function and study normally,Moderate,1,83.5,5.0,6.7,2,5,1.6,23
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,93.4,5.8,8.8,4,3,2.0,17
+Exams do not bother me much this time,Low,0,67.1,8.0,4.1,0,9,3.3,29
+I feel quite relaxed about my upcoming exams,Low,0,73.9,7.7,6.0,1,5,2.6,40
+I feel a little nervous but it motivates me positively,Low,0,81.2,7.0,3.5,1,5,2.3,56
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,89.8,6.0,5.2,2,2,2.2,13
+I cannot stop worrying about failing the exam at all,High,2,100.2,3.5,6.0,9,1,0.4,10
+I get nervous but can still function and study normally,Moderate,1,83.1,5.3,6.6,4,4,2.0,20
+I feel quite relaxed about my upcoming exams,Low,0,69.3,7.2,4.7,0,10,1.8,41
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,89.1,7.5,5.4,2,4,1.2,17
+I have not been able to sleep for days because of exam fear,High,2,101.3,4.4,7.2,10,1,1.5,2
+My appetite has slightly reduced during exam preparation,Moderate,1,71.6,5.4,6.6,4,5,2.4,5
+I have been feeling restless lately because of exams,Moderate,1,81.0,6.1,7.8,4,3,1.5,20
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,86.3,5.4,6.6,3,3,1.7,24
+I worry a bit about failing but I keep studying,Moderate,1,88.1,4.5,6.9,3,4,1.6,14
+My heart races and I feel nauseous when exam date approaches,High,2,90.6,4.2,7.8,9,0,1.1,0
+I feel like everything depends on this exam and I might fail,High,2,94.2,6.1,8.0,5,0,1.1,2
+I feel quite relaxed about my upcoming exams,Low,0,68.7,7.3,4.4,0,7,2.2,31
+Exams do not bother me much this time,Low,0,71.4,7.4,5.6,0,6,2.7,46
+I feel moderate pressure from family expectations about results,Moderate,1,80.4,5.9,6.9,4,5,1.7,21
+I have been feeling restless lately because of exams,Moderate,1,78.1,5.6,6.5,3,6,1.5,17
+I experience panic attacks when I think about exams,High,2,112.1,5.5,8.4,11,2,0.9,7
+No major worries just some normal exam jitters,Low,0,68.4,7.8,4.3,0,5,2.6,24
+I get nervous but can still function and study normally,Moderate,1,76.3,5.4,8.0,3,6,1.9,15
+I get anxious during revision but calm down after some time,Moderate,1,85.6,6.3,6.3,5,3,1.6,21
+I feel like everything depends on this exam and I might fail,High,2,98.4,4.6,6.2,13,1,0.9,5
+I have been feeling restless lately because of exams,Moderate,1,85.5,5.4,8.4,4,2,2.0,11
+I experience panic attacks when I think about exams,High,2,85.2,4.2,9.1,12,1,1.2,8
+I feel completely hopeless and unprepared for the exams,High,2,100.8,3.8,12.7,10,0,1.3,8
+I feel good about my chances in the exam,Low,0,82.3,8.4,4.8,1,7,2.8,22
+I get anxious during revision but calm down after some time,Moderate,1,78.7,5.1,6.8,2,5,1.7,8
+I sleep well and feel mentally prepared,Low,0,71.4,7.7,4.1,0,7,2.4,35
+I manage my time well and feel in control,Low,0,72.4,6.9,6.0,1,10,2.4,26
+I get nervous but can still function and study normally,Moderate,1,87.2,6.6,7.1,5,4,2.2,5
+I have been studying consistently and feel confident,Low,0,70.9,7.9,5.5,1,7,2.5,35
+I feel good about my chances in the exam,Low,0,65.3,7.0,6.2,1,5,2.3,28
+I worry a bit about failing but I keep studying,Moderate,1,82.4,6.3,6.1,5,6,2.2,20
+I feel a little nervous but it motivates me positively,Low,0,72.9,6.8,5.4,2,6,2.7,24
+Exams do not bother me much this time,Low,0,72.6,7.8,5.7,2,7,2.2,33
+I have been studying consistently and feel confident,Low,0,66.9,7.7,4.1,0,6,2.1,52
+I worry a bit about failing but I keep studying,Moderate,1,81.6,7.0,5.7,5,4,2.0,20
+My heart races and I feel nauseous when exam date approaches,High,2,90.1,6.0,9.1,11,2,1.4,1
+I am confident in my preparation and feel steady,Low,0,74.6,9.4,5.6,2,6,2.8,39
+I feel quite relaxed about my upcoming exams,Low,0,74.5,7.6,4.4,2,7,2.3,56
+I feel completely hopeless and unprepared for the exams,High,2,90.6,4.7,6.4,6,1,1.0,1
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,79.3,6.1,6.3,4,4,1.4,7
+My mind goes completely blank whenever I try to study,High,2,95.5,4.9,5.7,13,1,1.2,6
+I have been feeling restless lately because of exams,Moderate,1,83.4,5.7,6.9,5,6,1.8,21
+I have been having severe headaches and chest tightness from stress,High,2,104.8,4.0,7.8,10,0,1.2,8
+I have been feeling restless lately because of exams,Moderate,1,84.5,6.6,7.0,2,2,1.9,11
+I manage my time well and feel in control,Low,0,68.6,7.6,4.2,2,9,3.1,44
+I enjoy studying and feel ready for assessments,Low,0,78.0,7.4,5.0,1,5,2.2,45
+I feel extremely stressed and cannot focus on anything,High,2,97.4,3.4,8.4,10,1,1.2,4
+I sleep well and feel mentally prepared,Low,0,62.0,7.7,6.2,0,9,2.1,46
+I feel quite relaxed about my upcoming exams,Low,0,70.7,7.0,4.6,0,8,2.6,59
+I am calm and focused during my study sessions,Low,0,66.8,7.4,4.1,1,10,2.1,52
+I feel completely hopeless and unprepared for the exams,High,2,99.9,4.5,10.6,12,2,1.3,10
+My appetite has slightly reduced during exam preparation,Moderate,1,85.5,7.0,7.7,4,2,1.3,6
+I feel moderate pressure from family expectations about results,Moderate,1,80.3,6.1,7.6,4,4,1.6,13
+I feel stressed but try to manage it with breaks,Moderate,1,76.4,6.6,7.2,5,6,2.0,9
+I enjoy studying and feel ready for assessments,Low,0,73.8,7.8,6.1,0,7,2.8,53
+I get anxious during revision but calm down after some time,Moderate,1,73.9,6.5,6.6,2,6,1.5,6
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,87.3,4.7,6.6,5,2,1.9,13
+I feel good about my chances in the exam,Low,0,74.3,8.6,4.4,2,10,2.8,54
+I have been having severe headaches and chest tightness from stress,High,2,101.5,3.8,9.1,12,1,0.6,3
+I feel a little nervous but it motivates me positively,Low,0,62.6,7.3,5.0,2,9,3.0,40
+My appetite has slightly reduced during exam preparation,Moderate,1,88.8,7.1,5.8,4,5,1.6,12
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,81.8,6.0,7.6,5,3,2.0,21
+Exams do not bother me much this time,Low,0,75.1,8.5,5.0,0,7,2.3,55
+I cannot stop worrying about failing the exam at all,High,2,107.5,4.1,9.1,5,2,1.1,1
+I cry frequently because of the unbearable exam pressure,High,2,107.4,3.3,8.1,7,0,1.3,4
+I feel good about my chances in the exam,Low,0,72.7,7.4,5.7,2,6,2.8,24
+I sleep well and feel mentally prepared,Low,0,72.4,7.4,5.1,1,7,1.9,33
+I feel moderate pressure from family expectations about results,Moderate,1,81.0,6.2,8.6,3,3,2.1,14
+No major worries just some normal exam jitters,Low,0,73.1,8.2,3.4,0,8,2.6,44
+I have been having severe headaches and chest tightness from stress,High,2,109.4,3.7,7.3,12,2,1.5,3
+I worry a bit about failing but I keep studying,Moderate,1,83.4,6.2,8.4,5,2,1.4,14
+I feel completely hopeless and unprepared for the exams,High,2,110.1,4.5,7.2,10,0,1.3,7
+I am constantly trembling and cannot eat or sleep properly,High,2,112.7,3.3,10.7,14,0,1.5,2
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,83.4,6.6,7.5,5,5,1.5,19
+I cry frequently because of the unbearable exam pressure,High,2,97.9,5.0,8.7,12,1,0.9,2
+I get nervous but can still function and study normally,Moderate,1,82.4,4.8,6.8,4,4,2.3,10
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,85.7,5.3,7.1,5,6,1.9,24
+I cannot stop worrying about failing the exam at all,High,2,85.1,3.6,6.0,13,0,1.2,1
+I am constantly trembling and cannot eat or sleep properly,High,2,97.8,5.2,8.6,13,2,1.6,2
+I feel good about my chances in the exam,Low,0,68.6,7.6,5.3,2,7,2.3,41
+I am calm and focused during my study sessions,Low,0,69.4,8.0,4.3,1,8,2.1,21
+Exams do not bother me much this time,Low,0,75.9,7.7,4.0,1,10,2.5,25
+The thought of the exam fills me with dread and terror,High,2,96.1,6.8,6.5,13,2,1.5,10
+The thought of the exam fills me with dread and terror,High,2,82.7,4.9,5.9,7,2,1.1,0
+I feel like everything depends on this exam and I might fail,High,2,94.4,4.1,9.1,14,2,0.7,5
+I worry a bit about failing but I keep studying,Moderate,1,88.7,5.3,7.5,4,5,1.7,7
+I am constantly trembling and cannot eat or sleep properly,High,2,89.7,4.5,7.0,8,2,1.4,10
+I get nervous but can still function and study normally,Moderate,1,70.2,8.2,8.1,5,2,1.9,14
+I feel a little nervous but it motivates me positively,Low,0,72.5,7.9,5.5,0,6,2.6,53
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,94.2,6.3,6.1,5,4,2.0,15
+I feel moderate pressure from family expectations about results,Moderate,1,83.1,6.6,6.1,5,5,2.3,7
+I feel like everything depends on this exam and I might fail,High,2,111.9,3.8,8.2,12,0,1.2,6
+No major worries just some normal exam jitters,Low,0,80.0,7.1,4.0,2,10,1.9,28
+I feel stressed but try to manage it with breaks,Moderate,1,86.4,6.7,6.7,5,3,1.6,6
+I feel completely hopeless and unprepared for the exams,High,2,99.9,2.9,5.9,13,2,1.4,5
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,85.5,6.3,7.0,3,5,2.0,6
+The thought of the exam fills me with dread and terror,High,2,88.6,3.2,8.5,12,0,1.1,1
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,87.1,5.2,7.7,3,4,1.9,23
+The thought of the exam fills me with dread and terror,High,2,102.5,4.0,7.9,5,1,1.1,6
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,79.4,5.8,5.4,2,6,1.7,16
+I get anxious during revision but calm down after some time,Moderate,1,82.4,5.7,6.1,5,5,2.0,12
+I have been studying consistently and feel confident,Low,0,73.8,7.2,5.4,0,5,3.0,44
+No major worries just some normal exam jitters,Low,0,72.2,7.1,5.3,1,5,2.5,26
+I feel good about my chances in the exam,Low,0,66.5,6.4,5.4,1,10,3.2,36
+I have been studying consistently and feel confident,Low,0,74.6,7.2,5.0,0,6,3.1,39
+I feel extremely stressed and cannot focus on anything,High,2,89.7,3.9,6.3,13,1,1.3,3
+The thought of the exam fills me with dread and terror,High,2,115.1,5.4,10.1,11,0,1.2,8
+No major worries just some normal exam jitters,Low,0,69.1,7.6,7.6,0,8,2.5,36
+I feel a little nervous but it motivates me positively,Low,0,81.8,7.5,4.3,2,10,2.6,29
+I feel like everything depends on this exam and I might fail,High,2,103.6,4.9,8.7,5,0,1.1,4
+I feel completely hopeless and unprepared for the exams,High,2,98.8,6.5,6.2,8,0,1.2,0
+I get anxious during revision but calm down after some time,Moderate,1,73.8,6.4,7.6,4,4,1.8,24
+I have been studying consistently and feel confident,Low,0,73.5,6.6,3.7,2,8,2.7,28
+I am confident in my preparation and feel steady,Low,0,72.2,7.5,4.3,0,8,2.3,29
+I have been feeling restless lately because of exams,Moderate,1,88.7,6.4,7.7,3,2,2.0,21
+I feel good about my chances in the exam,Low,0,82.1,7.6,4.6,1,10,2.6,39
+I feel extremely stressed and cannot focus on anything,High,2,101.0,5.8,9.6,6,2,1.3,5
+I have not been able to sleep for days because of exam fear,High,2,86.6,4.6,10.0,12,2,1.7,4
+I get anxious during revision but calm down after some time,Moderate,1,90.6,5.4,7.5,2,2,1.9,5
+I cannot stop worrying about failing the exam at all,High,2,87.3,4.3,8.5,13,1,1.3,3
+I feel tense when thinking about results but manage to study,Moderate,1,91.5,6.6,8.0,4,4,2.2,19
+I enjoy studying and feel ready for assessments,Low,0,64.4,8.1,4.4,0,10,3.3,24
+No major worries just some normal exam jitters,Low,0,75.1,7.1,3.9,1,8,2.6,21
+I feel tense when thinking about results but manage to study,Moderate,1,82.4,6.3,5.4,5,4,1.5,22
+I feel good about my chances in the exam,Low,0,72.3,8.0,3.3,2,9,3.0,58
+I experience panic attacks when I think about exams,High,2,92.2,4.8,12.5,14,1,1.0,5
+No major worries just some normal exam jitters,Low,0,65.9,7.9,4.8,1,8,2.4,20
+I feel quite relaxed about my upcoming exams,Low,0,76.1,8.2,4.9,2,6,2.8,38
+I get anxious during revision but calm down after some time,Moderate,1,78.1,6.8,7.0,5,5,1.8,19
+I have been studying consistently and feel confident,Low,0,73.1,6.9,5.2,2,8,2.6,24
+I manage my time well and feel in control,Low,0,77.7,7.1,5.0,0,9,3.0,58
+I feel tense when thinking about results but manage to study,Moderate,1,69.7,7.1,5.6,4,3,1.7,22
+I have been feeling restless lately because of exams,Moderate,1,88.1,5.9,7.4,3,6,1.8,14
+I have been having severe headaches and chest tightness from stress,High,2,100.7,3.9,6.9,5,0,1.3,9
+I feel completely hopeless and unprepared for the exams,High,2,106.0,4.1,8.0,10,1,0.6,5
+I feel extremely stressed and cannot focus on anything,High,2,112.7,3.7,8.5,8,0,1.3,9
+I experience panic attacks when I think about exams,High,2,103.1,5.1,9.1,12,0,1.3,1
+I feel moderate pressure from family expectations about results,Moderate,1,71.1,6.5,5.9,4,2,1.9,18
+I feel extremely stressed and cannot focus on anything,High,2,91.3,3.8,8.7,11,2,0.9,9
+I feel good about my chances in the exam,Low,0,80.1,7.7,4.8,0,8,2.8,38
+I feel like everything depends on this exam and I might fail,High,2,94.1,3.0,8.3,9,0,0.9,10
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,88.4,7.3,6.6,4,2,2.0,23
+My heart races and I feel nauseous when exam date approaches,High,2,96.8,6.1,9.4,12,1,1.2,3
+I am confident in my preparation and feel steady,Low,0,73.8,7.3,5.0,0,6,2.9,33
+I am calm and focused during my study sessions,Low,0,71.2,7.7,6.9,0,6,2.6,56
+Exams do not bother me much this time,Low,0,71.7,7.7,5.3,0,8,2.6,27
+I feel completely hopeless and unprepared for the exams,High,2,93.8,5.5,9.6,13,0,1.6,5
+I feel moderate pressure from family expectations about results,Moderate,1,84.1,6.7,4.3,5,6,2.0,23
+I experience panic attacks when I think about exams,High,2,89.2,4.5,10.0,6,0,0.7,0
+No major worries just some normal exam jitters,Low,0,75.8,7.7,6.3,0,5,2.7,55
+I sleep well and feel mentally prepared,Low,0,75.0,7.6,4.6,1,5,2.6,54
+I enjoy studying and feel ready for assessments,Low,0,74.6,7.6,5.3,0,10,2.6,27
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,85.1,4.9,7.1,2,2,1.7,18
+I worry a bit about failing but I keep studying,Moderate,1,84.5,5.1,7.3,4,6,1.8,7
+My mind goes completely blank whenever I try to study,High,2,104.1,4.9,9.0,5,0,1.1,10
+No major worries just some normal exam jitters,Low,0,82.3,8.1,6.0,0,8,2.7,52
+I have been feeling restless lately because of exams,Moderate,1,79.6,5.9,5.3,4,3,1.6,19
+I feel extremely stressed and cannot focus on anything,High,2,81.3,3.7,11.2,8,1,1.8,10
+I experience panic attacks when I think about exams,High,2,95.4,2.0,9.3,13,1,1.1,7
+I get nervous but can still function and study normally,Moderate,1,85.3,5.9,8.8,3,5,2.3,12
+Exams do not bother me much this time,Low,0,72.5,7.2,3.4,0,9,2.5,51
+I feel like everything depends on this exam and I might fail,High,2,97.6,5.1,6.6,14,2,1.3,10
+I am constantly trembling and cannot eat or sleep properly,High,2,88.1,3.3,10.0,14,2,1.4,9
+I am calm and focused during my study sessions,Low,0,68.4,7.4,4.9,2,10,2.7,44
+I feel extremely stressed and cannot focus on anything,High,2,107.0,3.6,10.9,12,0,1.5,4
+I feel extremely stressed and cannot focus on anything,High,2,105.2,4.7,10.9,11,2,1.3,4
+I feel extremely stressed and cannot focus on anything,High,2,97.7,3.6,9.4,8,0,1.5,4
+I get anxious during revision but calm down after some time,Moderate,1,78.4,5.3,7.8,4,3,1.7,19
+I have been having severe headaches and chest tightness from stress,High,2,93.1,3.9,9.6,11,0,1.3,5
+I have not been able to sleep for days because of exam fear,High,2,108.9,4.2,11.0,8,1,0.8,8
+I experience panic attacks when I think about exams,High,2,108.7,4.5,7.2,6,1,1.2,5
+My heart races and I feel nauseous when exam date approaches,High,2,88.5,4.1,5.9,12,1,1.2,3
+The thought of the exam fills me with dread and terror,High,2,97.5,4.8,9.3,12,2,1.6,10
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,88.0,5.6,6.4,5,2,1.5,23
+I am confident in my preparation and feel steady,Low,0,70.3,8.3,4.7,1,8,2.0,36
+I feel moderate pressure from family expectations about results,Moderate,1,94.7,5.6,5.9,2,4,2.2,25
+I feel extremely stressed and cannot focus on anything,High,2,79.3,4.4,8.6,6,2,1.1,3
+My preparation is going smoothly without much stress,Low,0,70.8,7.8,6.8,2,6,2.8,37
+My mind goes completely blank whenever I try to study,High,2,83.5,5.7,8.5,12,2,1.1,8
+I feel tense when thinking about results but manage to study,Moderate,1,81.3,6.6,7.0,4,4,1.4,20
+I experience panic attacks when I think about exams,High,2,86.8,2.2,7.8,11,1,1.5,6
+My mind goes completely blank whenever I try to study,High,2,100.0,4.1,10.8,14,2,0.9,9
+My heart races and I feel nauseous when exam date approaches,High,2,113.0,5.6,11.9,11,2,0.8,10
+I cannot stop worrying about failing the exam at all,High,2,99.6,3.8,9.2,12,1,1.3,6
+I cannot stop worrying about failing the exam at all,High,2,95.1,4.7,8.8,10,1,0.8,10
+My preparation is going smoothly without much stress,Low,0,63.1,8.2,5.7,1,6,2.5,29
+I cry frequently because of the unbearable exam pressure,High,2,104.1,3.8,6.8,10,0,1.2,2
+I have not been able to sleep for days because of exam fear,High,2,92.1,5.0,9.0,10,1,0.8,2
+I feel tense when thinking about results but manage to study,Moderate,1,85.4,5.6,7.0,3,4,1.3,16
+I enjoy studying and feel ready for assessments,Low,0,65.5,7.8,5.4,0,8,2.2,28
+I am confident in my preparation and feel steady,Low,0,73.0,7.5,3.6,1,7,2.7,57
+I cannot stop worrying about failing the exam at all,High,2,99.0,5.5,8.1,13,1,0.5,0
+I cannot stop worrying about failing the exam at all,High,2,99.5,2.5,10.0,5,0,1.2,10
+I feel good about my chances in the exam,Low,0,64.3,8.1,5.3,2,7,2.3,52
+I have been feeling restless lately because of exams,Moderate,1,75.9,6.8,6.5,3,6,1.9,22
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,90.3,7.1,8.0,4,2,1.7,5
+My appetite has slightly reduced during exam preparation,Moderate,1,81.3,5.8,7.8,3,6,1.9,6
+I have been feeling restless lately because of exams,Moderate,1,70.1,6.8,6.5,2,2,1.5,6
+I cannot stop worrying about failing the exam at all,High,2,81.3,5.2,8.1,12,1,1.4,5
+I experience panic attacks when I think about exams,High,2,96.6,4.4,10.8,8,2,1.2,0
+I feel moderate pressure from family expectations about results,Moderate,1,87.5,6.4,6.0,2,3,1.7,6
+I am calm and focused during my study sessions,Low,0,74.9,7.7,8.1,0,10,2.8,26
+I feel a little nervous but it motivates me positively,Low,0,76.8,7.8,4.7,2,10,2.7,43
+No major worries just some normal exam jitters,Low,0,74.1,8.4,4.2,0,10,2.1,44
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,88.3,5.9,6.8,3,4,2.8,14
+I feel extremely stressed and cannot focus on anything,High,2,94.1,4.2,8.2,12,2,1.3,10
+I manage my time well and feel in control,Low,0,69.9,7.4,3.7,0,5,2.2,37
+I cannot stop worrying about failing the exam at all,High,2,97.7,4.3,8.7,8,0,1.4,2
+I get anxious during revision but calm down after some time,Moderate,1,84.2,6.2,8.7,2,6,2.1,6
+I have not been able to sleep for days because of exam fear,High,2,91.1,4.2,8.0,5,2,0.8,6
+I feel good about my chances in the exam,Low,0,79.8,7.5,4.4,1,5,3.1,20
+I am calm and focused during my study sessions,Low,0,71.9,7.0,5.8,0,6,2.1,47
+I feel a little nervous but it motivates me positively,Low,0,76.1,7.5,3.7,2,8,2.1,30
+No major worries just some normal exam jitters,Low,0,73.3,7.9,3.8,1,9,2.1,36
+I get nervous but can still function and study normally,Moderate,1,73.5,6.6,6.5,3,4,1.8,16
+I feel moderate pressure from family expectations about results,Moderate,1,79.3,5.9,6.4,2,3,1.1,23
+I feel a little nervous but it motivates me positively,Low,0,82.4,7.2,6.7,0,9,2.6,34
+No major worries just some normal exam jitters,Low,0,68.4,7.9,4.7,2,8,2.9,25
+The thought of the exam fills me with dread and terror,High,2,96.6,3.5,8.0,6,1,0.9,6
+I am constantly trembling and cannot eat or sleep properly,High,2,106.3,2.6,5.4,11,2,1.1,5
+I have not been able to sleep for days because of exam fear,High,2,100.0,2.5,7.6,11,1,1.7,10
+I feel moderate pressure from family expectations about results,Moderate,1,80.2,6.3,7.8,5,5,1.7,14
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,80.0,7.0,5.7,2,2,2.0,25
+The thought of the exam fills me with dread and terror,High,2,86.6,6.0,8.2,6,2,1.4,8
+I am constantly trembling and cannot eat or sleep properly,High,2,91.1,4.4,10.4,11,0,1.3,5
+I feel completely hopeless and unprepared for the exams,High,2,97.7,3.7,9.0,14,2,1.4,2
+Exams do not bother me much this time,Low,0,79.4,8.2,4.4,2,9,2.6,57
+I feel moderate pressure from family expectations about results,Moderate,1,93.5,7.0,5.7,4,6,2.0,13
+I am confident in my preparation and feel steady,Low,0,74.8,7.0,5.1,1,8,2.1,29
+I feel extremely stressed and cannot focus on anything,High,2,95.3,4.3,10.7,13,1,1.3,1
+I get nervous but can still function and study normally,Moderate,1,84.0,6.9,6.0,2,4,2.1,18
+I have been studying consistently and feel confident,Low,0,75.8,7.0,5.9,1,8,2.9,60
+I feel extremely stressed and cannot focus on anything,High,2,94.8,4.2,7.4,6,0,0.8,10
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,80.2,6.0,7.5,4,6,1.8,19
+I feel like everything depends on this exam and I might fail,High,2,101.2,5.1,7.5,6,0,1.3,1
+My heart races and I feel nauseous when exam date approaches,High,2,93.8,3.5,9.8,7,1,0.9,0
+My appetite has slightly reduced during exam preparation,Moderate,1,81.2,5.2,7.4,2,6,1.9,25
+I get anxious during revision but calm down after some time,Moderate,1,76.9,6.1,6.1,3,2,1.9,8
+I cannot stop worrying about failing the exam at all,High,2,84.0,5.5,8.0,6,1,1.4,6
+I feel like everything depends on this exam and I might fail,High,2,107.6,4.5,8.1,7,0,1.1,10
+I get anxious during revision but calm down after some time,Moderate,1,93.8,5.9,7.7,3,4,1.4,21
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,67.2,6.0,7.3,2,4,2.1,25
+I am constantly trembling and cannot eat or sleep properly,High,2,90.3,4.9,9.5,7,2,1.3,6
+The thought of the exam fills me with dread and terror,High,2,98.2,2.8,10.5,5,1,1.2,0
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,77.6,5.5,6.4,3,6,2.2,24
+I feel completely hopeless and unprepared for the exams,High,2,105.4,4.6,9.1,5,1,1.4,3
+I worry a bit about failing but I keep studying,Moderate,1,84.8,4.9,8.5,2,2,1.4,18
+I experience panic attacks when I think about exams,High,2,95.8,4.4,10.8,14,0,0.9,3
+I have been studying consistently and feel confident,Low,0,76.2,7.1,5.1,0,10,2.4,39
+I feel good about my chances in the exam,Low,0,72.9,7.6,4.5,2,9,2.2,41
+The thought of the exam fills me with dread and terror,High,2,100.1,5.5,9.2,10,0,1.1,10
+I have not been able to sleep for days because of exam fear,High,2,94.8,3.4,8.2,7,1,1.3,4
+I have been studying consistently and feel confident,Low,0,75.4,7.3,7.2,2,6,2.3,50
+My appetite has slightly reduced during exam preparation,Moderate,1,84.9,5.8,6.7,2,6,1.3,13
+I cry frequently because of the unbearable exam pressure,High,2,91.0,5.0,9.7,12,0,1.5,2
+I have not been able to sleep for days because of exam fear,High,2,92.9,4.4,8.4,11,1,0.8,10
+I am constantly trembling and cannot eat or sleep properly,High,2,89.6,5.4,5.7,8,2,0.8,5
+I worry a bit about failing but I keep studying,Moderate,1,84.1,6.7,6.0,5,2,1.9,14
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,75.8,6.6,8.0,4,5,1.6,11
+I manage my time well and feel in control,Low,0,74.6,7.1,5.2,0,10,2.3,24
+I get nervous but can still function and study normally,Moderate,1,82.9,5.9,7.2,4,3,1.7,14
+My preparation is going smoothly without much stress,Low,0,73.6,7.4,5.8,1,8,1.8,33
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,86.3,5.1,7.5,5,5,1.3,7
+My mind goes completely blank whenever I try to study,High,2,93.9,4.2,10.4,14,0,1.3,9
+I have been studying consistently and feel confident,Low,0,71.6,6.7,5.4,2,7,2.6,58
+My mind goes completely blank whenever I try to study,High,2,95.2,3.5,12.1,6,2,1.7,0
+I feel quite relaxed about my upcoming exams,Low,0,84.0,7.5,5.2,2,9,2.8,35
+I enjoy studying and feel ready for assessments,Low,0,72.5,7.5,4.2,2,8,2.4,49
+I feel like everything depends on this exam and I might fail,High,2,94.0,3.2,9.6,9,2,1.4,8
+I get anxious during revision but calm down after some time,Moderate,1,81.9,7.0,6.4,2,4,1.6,23
+Exams do not bother me much this time,Low,0,80.4,7.9,5.0,0,5,2.9,32
+I feel a little nervous but it motivates me positively,Low,0,78.3,7.1,4.8,1,10,2.4,49
+I feel completely hopeless and unprepared for the exams,High,2,101.6,4.3,7.5,13,2,1.6,1
+I sleep well and feel mentally prepared,Low,0,72.0,6.9,6.5,0,6,2.8,55
+I cannot stop worrying about failing the exam at all,High,2,88.0,4.8,8.2,6,2,1.4,0
+No major worries just some normal exam jitters,Low,0,74.6,7.2,3.8,1,5,1.6,27
+I have not been able to sleep for days because of exam fear,High,2,102.7,4.7,7.1,7,2,1.0,4
+I feel good about my chances in the exam,Low,0,69.4,7.6,5.0,2,7,2.9,50
+I feel moderate pressure from family expectations about results,Moderate,1,77.6,5.7,6.0,4,3,2.0,17
+Exams do not bother me much this time,Low,0,70.8,7.4,6.6,0,6,2.7,26
+I feel quite relaxed about my upcoming exams,Low,0,69.4,7.0,4.9,1,7,2.8,22
+I get anxious during revision but calm down after some time,Moderate,1,80.5,5.4,7.0,5,5,1.5,8
+I have been having severe headaches and chest tightness from stress,High,2,88.9,4.9,9.1,13,0,0.6,1
+My heart races and I feel nauseous when exam date approaches,High,2,100.0,4.8,8.4,7,1,1.5,1
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,81.5,5.4,9.2,4,6,1.7,7
+I feel tense when thinking about results but manage to study,Moderate,1,86.1,6.7,6.3,3,4,2.1,8
+I have been having severe headaches and chest tightness from stress,High,2,118.0,4.3,10.1,10,2,1.0,7
+No major worries just some normal exam jitters,Low,0,68.3,8.1,6.1,0,6,2.7,49
+I worry a bit about failing but I keep studying,Moderate,1,82.7,6.0,7.8,2,2,1.1,22
+I feel tense when thinking about results but manage to study,Moderate,1,94.4,7.1,9.2,2,6,1.8,6
+I feel completely hopeless and unprepared for the exams,High,2,97.1,5.2,10.0,7,0,1.4,5
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,74.9,5.1,7.5,2,4,2.0,23
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,95.3,5.2,7.5,3,2,1.5,15
+My mind goes completely blank whenever I try to study,High,2,87.7,5.0,7.8,5,2,0.9,2
+I have been having severe headaches and chest tightness from stress,High,2,88.8,3.6,9.5,13,0,0.9,10
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,88.9,6.4,5.9,3,5,1.7,23
+I feel moderate pressure from family expectations about results,Moderate,1,85.2,6.3,6.9,4,5,2.2,22
+I cannot stop worrying about failing the exam at all,High,2,95.2,4.8,7.9,9,0,1.3,5
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,79.1,6.9,8.4,2,2,1.6,25
+I feel tense when thinking about results but manage to study,Moderate,1,94.8,6.0,8.0,5,6,2.2,15
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,86.2,6.6,6.7,2,5,2.3,9
+I worry a bit about failing but I keep studying,Moderate,1,87.0,5.2,5.4,3,4,2.0,16
+I cannot stop worrying about failing the exam at all,High,2,107.5,4.2,11.2,11,1,1.2,3
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,76.3,6.2,7.5,5,2,2.1,16
+I get nervous but can still function and study normally,Moderate,1,83.4,5.9,6.0,5,2,1.8,5
+My heart races and I feel nauseous when exam date approaches,High,2,105.4,4.3,8.5,9,2,1.4,4
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,84.5,6.3,8.1,4,3,1.8,9
+I sleep well and feel mentally prepared,Low,0,67.8,7.2,2.9,1,5,2.3,35
+I have been having severe headaches and chest tightness from stress,High,2,101.1,3.9,11.5,13,1,0.6,10
+I get anxious during revision but calm down after some time,Moderate,1,74.3,6.0,5.7,3,4,1.9,15
+I worry a bit about failing but I keep studying,Moderate,1,72.1,6.2,5.1,4,3,1.8,17
+I have been having severe headaches and chest tightness from stress,High,2,95.0,4.1,4.6,10,0,1.8,6
+I have been having severe headaches and chest tightness from stress,High,2,103.7,4.5,9.3,11,0,1.5,10
+I cry frequently because of the unbearable exam pressure,High,2,96.7,3.9,10.5,13,2,1.1,7
+I feel a little nervous but it motivates me positively,Low,0,69.8,8.2,6.6,2,9,2.3,37
+I have been studying consistently and feel confident,Low,0,64.2,7.2,5.8,2,10,2.1,43
+I feel tense when thinking about results but manage to study,Moderate,1,74.2,5.6,8.0,5,5,2.0,5
+I experience panic attacks when I think about exams,High,2,93.6,2.4,8.5,12,1,1.2,3
+I am calm and focused during my study sessions,Low,0,67.9,7.5,3.9,1,5,1.6,56
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,73.9,6.2,8.8,4,5,1.8,13
+I feel completely hopeless and unprepared for the exams,High,2,88.8,3.7,10.6,9,1,1.5,6
+I feel extremely stressed and cannot focus on anything,High,2,108.5,3.3,11.4,9,1,1.1,7
+I feel tense when thinking about results but manage to study,Moderate,1,88.2,5.8,7.0,4,2,1.4,25
+I have been feeling restless lately because of exams,Moderate,1,78.3,5.5,6.1,5,4,1.6,9
+I have been having severe headaches and chest tightness from stress,High,2,91.1,3.9,10.5,11,1,0.8,0
+I worry a bit about failing but I keep studying,Moderate,1,82.7,5.7,6.4,5,5,1.9,25
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,86.4,5.4,9.0,5,3,1.6,22
+I feel good about my chances in the exam,Low,0,65.4,8.4,6.2,2,5,2.4,55
+The thought of the exam fills me with dread and terror,High,2,82.7,4.1,7.9,9,2,1.4,9
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,94.2,6.8,6.6,2,2,2.2,21
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,87.0,6.7,5.4,4,3,1.6,6
+I have not been able to sleep for days because of exam fear,High,2,89.8,4.7,8.3,8,0,1.3,3
+My mind goes completely blank whenever I try to study,High,2,85.0,4.9,11.8,14,1,1.3,0
+The thought of the exam fills me with dread and terror,High,2,121.9,6.3,8.7,11,2,1.2,4
+I feel tense when thinking about results but manage to study,Moderate,1,81.8,5.5,8.0,5,4,2.3,18
+I have been studying consistently and feel confident,Low,0,76.7,7.2,5.1,2,10,2.4,41
+No major worries just some normal exam jitters,Low,0,67.7,7.3,6.0,1,10,2.3,27
+I cry frequently because of the unbearable exam pressure,High,2,96.9,4.0,9.7,6,1,0.3,2
+My preparation is going smoothly without much stress,Low,0,67.1,7.9,6.2,0,10,2.3,36
+I cry frequently because of the unbearable exam pressure,High,2,86.5,5.3,9.9,7,2,1.0,6
+I sleep well and feel mentally prepared,Low,0,77.4,7.0,5.1,1,5,2.3,23
+I feel good about my chances in the exam,Low,0,68.4,6.6,4.9,0,8,2.5,48
+I have been studying consistently and feel confident,Low,0,68.8,6.8,6.6,1,8,2.8,41
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,80.6,5.4,8.6,3,3,1.7,13
+I have been studying consistently and feel confident,Low,0,75.7,7.4,5.1,0,5,2.7,47
+I get nervous but can still function and study normally,Moderate,1,76.3,6.9,6.8,5,6,1.6,14
+I have been having severe headaches and chest tightness from stress,High,2,90.8,4.5,8.9,9,1,0.7,6
+I worry a bit about failing but I keep studying,Moderate,1,78.2,6.0,8.2,5,6,1.7,16
+My appetite has slightly reduced during exam preparation,Moderate,1,83.0,6.4,5.6,5,4,1.1,25
+I feel good about my chances in the exam,Low,0,78.3,7.1,5.4,1,7,2.7,47
+I enjoy studying and feel ready for assessments,Low,0,67.8,7.3,5.3,1,10,2.8,59
+I have been having severe headaches and chest tightness from stress,High,2,89.3,5.6,8.9,12,1,0.9,4
+I worry a bit about failing but I keep studying,Moderate,1,81.8,6.8,7.6,2,5,0.9,24
+I have been studying consistently and feel confident,Low,0,79.6,7.8,4.0,0,7,3.1,58
+I feel good about my chances in the exam,Low,0,68.9,6.8,4.1,0,5,2.1,35
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,81.3,5.5,8.7,4,6,1.5,11
+I feel good about my chances in the exam,Low,0,68.9,7.3,5.3,2,8,2.6,48
+I get nervous but can still function and study normally,Moderate,1,76.1,4.8,6.6,3,6,1.8,10
+I feel like everything depends on this exam and I might fail,High,2,85.5,3.2,8.1,14,1,1.4,2
+I feel completely hopeless and unprepared for the exams,High,2,109.7,3.1,9.7,5,2,1.3,4
+I manage my time well and feel in control,Low,0,65.2,7.4,3.8,2,9,2.0,37
+My appetite has slightly reduced during exam preparation,Moderate,1,77.4,5.5,7.3,4,4,1.7,13
+No major worries just some normal exam jitters,Low,0,72.9,8.2,5.9,1,6,2.0,46
+My mind goes completely blank whenever I try to study,High,2,88.1,4.0,9.3,12,2,1.3,0
+I get anxious during revision but calm down after some time,Moderate,1,82.2,6.1,6.8,2,6,1.6,17
+I cry frequently because of the unbearable exam pressure,High,2,94.1,4.5,7.6,13,2,1.6,10
+I sleep well and feel mentally prepared,Low,0,64.2,7.3,6.5,1,8,2.8,51
+The thought of the exam fills me with dread and terror,High,2,106.9,5.8,13.7,14,0,0.9,6
+I feel quite relaxed about my upcoming exams,Low,0,69.8,7.3,5.2,1,8,2.4,26
+Exams do not bother me much this time,Low,0,70.8,7.4,2.3,2,7,2.5,53
+I get nervous but can still function and study normally,Moderate,1,81.9,6.5,7.1,2,3,2.2,15
+Sometimes I cannot sleep because I keep thinking about exams,Moderate,1,80.1,5.3,7.1,5,6,2.3,24
+I feel overwhelmed when I look at the entire syllabus,Moderate,1,88.5,5.6,6.9,5,4,1.6,9
+I feel completely hopeless and unprepared for the exams,High,2,92.7,4.8,9.5,7,0,0.9,0
+I get anxious during revision but calm down after some time,Moderate,1,85.6,6.3,8.2,2,4,1.5,12
+I feel completely hopeless and unprepared for the exams,High,2,106.5,4.3,10.3,9,0,1.2,1
+The thought of the exam fills me with dread and terror,High,2,84.0,3.9,11.0,14,1,1.5,3
+I experience panic attacks when I think about exams,High,2,98.1,2.9,8.5,13,0,0.5,4
+No major worries just some normal exam jitters,Low,0,69.4,8.2,7.3,2,8,2.4,49
+I feel good about my chances in the exam,Low,0,68.1,7.3,5.8,0,10,2.1,47
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,78.8,6.6,8.6,5,6,2.1,6
+I get nervous but can still function and study normally,Moderate,1,85.9,6.4,8.1,5,4,2.6,6
+I have not been able to sleep for days because of exam fear,High,2,87.6,4.9,9.4,10,1,1.5,0
+I feel good about my chances in the exam,Low,0,75.5,7.3,5.2,2,7,2.5,49
+I have been having severe headaches and chest tightness from stress,High,2,105.9,4.2,10.6,8,0,1.4,3
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,88.3,5.7,4.4,4,5,1.9,9
+I get anxious during revision but calm down after some time,Moderate,1,78.6,6.3,5.7,2,2,2.0,12
+I enjoy studying and feel ready for assessments,Low,0,71.6,8.2,4.3,1,8,3.0,48
+I enjoy studying and feel ready for assessments,Low,0,68.6,7.8,6.0,0,8,2.8,25
+I sleep well and feel mentally prepared,Low,0,74.8,7.5,5.5,0,9,2.2,44
+I feel moderate pressure from family expectations about results,Moderate,1,78.7,6.1,6.5,4,5,1.7,9
+I manage my time well and feel in control,Low,0,75.8,8.1,4.9,1,8,2.4,46
+Exams do not bother me much this time,Low,0,68.4,7.6,4.7,1,10,3.0,29
+My mind goes completely blank whenever I try to study,High,2,86.8,3.2,6.3,9,2,0.8,6
+I feel good about my chances in the exam,Low,0,70.9,7.7,6.5,1,10,2.3,24
+I feel moderate pressure from family expectations about results,Moderate,1,89.6,5.6,5.7,3,3,1.7,24
+I feel extremely stressed and cannot focus on anything,High,2,105.2,2.2,9.0,14,2,1.2,7
+I experience panic attacks when I think about exams,High,2,104.8,4.9,9.0,8,0,1.0,0
+I have been feeling restless lately because of exams,Moderate,1,81.9,6.6,6.9,5,5,2.3,11
+I experience panic attacks when I think about exams,High,2,94.1,4.0,11.2,14,1,1.0,5
+I get nervous but can still function and study normally,Moderate,1,67.8,5.8,7.2,5,5,1.5,22
+I have not been able to sleep for days because of exam fear,High,2,105.5,4.9,8.7,12,0,1.0,1
+Exams do not bother me much this time,Low,0,74.5,7.6,4.1,0,8,2.7,27
+My mind goes completely blank whenever I try to study,High,2,91.6,4.4,11.5,8,0,0.9,1
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,86.4,4.7,6.6,5,4,1.9,11
+I am somewhat nervous and find it hard to concentrate sometimes,Moderate,1,78.8,5.7,6.5,4,4,1.8,8
+I feel completely hopeless and unprepared for the exams,High,2,109.6,4.2,10.0,11,2,0.9,0
+I get nervous but can still function and study normally,Moderate,1,81.4,7.1,7.6,5,3,1.7,11
+My heart races and I feel nauseous when exam date approaches,High,2,81.8,5.4,9.4,9,0,1.6,5
+I have been feeling restless lately because of exams,Moderate,1,76.2,7.7,8.5,5,6,2.0,22
+I feel good about my chances in the exam,Low,0,77.2,7.2,6.3,2,10,2.6,32
+No major worries just some normal exam jitters,Low,0,68.0,7.2,5.9,2,6,2.6,54
+My appetite has slightly reduced during exam preparation,Moderate,1,76.1,6.1,7.0,2,4,1.7,22
+I feel good about my chances in the exam,Low,0,77.5,7.0,5.6,1,5,2.2,33
+The thought of the exam fills me with dread and terror,High,2,92.8,4.7,8.9,6,2,1.3,9
+I feel good about my chances in the exam,Low,0,71.9,8.4,6.7,2,9,2.4,33
+I feel extremely stressed and cannot focus on anything,High,2,87.6,5.1,11.1,7,1,1.4,1
+My preparation is going smoothly without much stress,Low,0,65.1,6.7,6.5,1,10,2.4,36
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,87.7,6.4,7.2,5,3,1.7,19
+I feel a little nervous but it motivates me positively,Low,0,63.7,7.8,4.3,2,6,2.7,36
+The thought of the exam fills me with dread and terror,High,2,87.9,4.1,11.3,7,1,1.4,9
+I feel like everything depends on this exam and I might fail,High,2,91.3,4.1,10.3,11,0,1.7,0
+I feel quite relaxed about my upcoming exams,Low,0,68.4,7.4,5.3,2,5,2.9,46
+I feel good about my chances in the exam,Low,0,72.3,7.8,4.9,0,9,2.6,36
+I sometimes procrastinate due to exam pressure and worry,Moderate,1,90.8,4.8,8.0,2,4,2.1,24
+Exams do not bother me much this time,Low,0,68.2,6.8,4.4,1,7,2.2,39
+I have not been able to sleep for days because of exam fear,High,2,95.9,4.7,11.7,7,0,1.1,6
+I feel completely hopeless and unprepared for the exams,High,2,97.3,4.6,8.0,8,0,1.3,8
+I feel completely hopeless and unprepared for the exams,High,2,92.1,5.4,9.7,9,1,1.8,8
+I cannot stop worrying about failing the exam at all,High,2,97.2,4.0,9.2,8,1,1.7,1
+I cannot stop worrying about failing the exam at all,High,2,94.3,4.8,10.0,5,2,1.3,3
