@@ -1,2 +1,2 @@
 [console_scripts]
-watchmedo = watchdog.watchmedo:main [watchmedo]
+tqdm = tqdm.cli:main

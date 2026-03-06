@@ -1,11 +1,10 @@
-from __future__ import annotations
+"""`tqdm` version detector. Precedence: installed dist, git, 'UNKNOWN'."""
+try:
+    from importlib.metadata import PackageNotFoundError, version
+except ImportError:  # py<3.8
+    from importlib_metadata import PackageNotFoundError, version
 
-# When updating this version number, please update the
-# ``docs/source/global.rst.inc`` file as well.
-VERSION_MAJOR = 6
-VERSION_MINOR = 0
-VERSION_BUILD = 0
-VERSION_INFO = (VERSION_MAJOR, VERSION_MINOR, VERSION_BUILD)
-VERSION_STRING = f"{VERSION_MAJOR}.{VERSION_MINOR}.{VERSION_BUILD}"
-
-__version__ = VERSION_INFO
+try:
+    __version__ = version('tqdm')
+except PackageNotFoundError:
+    __version__ = "UNKNOWN"
