@@ -1,2 +1,2 @@
 [console_scripts]
-tqdm = tqdm.cli:main
+streamlit = streamlit.web.cli:main
